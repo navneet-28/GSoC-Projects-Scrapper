@@ -1,0 +1,1206 @@
+S.No;Project Title;Student;Organization;Website URL
+ ; ; ; ; 
+1;Improving Series Expansions;Sidharth Mundhra;SymPy;http://sympy.org
+2;System V Message Queues;Zyad Ali;gVisor;http://gvisor.dev
+3;Work on Message view projects and other issues in the surrounding areas.;Dinesh Chidipothu;Zulip;https://zulip.com
+4;Performance Tracking in CI;Jack FENG;Halide;https://halide-lang.org
+5;CoAP protocol endpoint for Drogue IoT;Pranav Bhatt;JBoss Community;http://www.jboss.org/
+6;Cloud Native Buildpacks [CNCF] Project: Automatic Buildpack Registry Action Updates;Mritunjay Sharma;CNCF;http://cncf.io
+7;Adding Multi-omics data support to ABioTrans Plus;Mohamed Soudy-1;National Resource for Network Biology (NRNB);https://nrnb.org/gsoc.html
+8;ODK-X: Improving Services User-Interface;Varun Tiwari;Digital Impact Alliance (DIAL) at UN Foundation;https://www.digitalimpactalliance.org/
+9;dart-casbin;Mohit Singh;Casbin;https://casbin.org/
+10;Catalyst Crosscompiling and Revamp;Mark Joseph Kuebel;Gentoo Foundation;http://www.gentoo.org/
+11;A system for collaborative visualization of large network layouts using FURY;Bruno Messias;Python Software Foundation;https://www.python.org/
+12;Right Sidebar for Hydrogen client;Midhun Suresh R;Matrix.org;https://matrix.org/
+13;Improving the compose box and the user interface of Zulip web;Priyam Seth;Zulip;https://zulip.com
+14;New Build System and improving CI/CD workflow;Avinal;FOSSology;https://www.fossology.org/
+15;MuZero implementation;Michał Łukomski;The Julia Language;https://julialang.org
+16;Urban Tree Canopy Detection Using Satellite and Aerial Imagery;Aditi Sawant;Mayor's Office of New Urban Mechanics (City of Boston);http://www.boston.gov/mechanics
+17;Examining the Coccinelle’s Handleability of All Function Headers Found in the Linux Kernel;Keisuke Nishimura;The Linux Foundation;http://www.linuxfoundation.org/
+18;Building checkers/mappings for known package lists;Muhammed Suhail A H;Python Software Foundation;https://www.python.org/
+19;New Rule Generation Technique & Make Quark Everywhere Among Security Open Source Projects;Yu-Shiang Dang;The Honeynet Project;https://honeynet.org
+20;Proposal for Zulip - GSoC 2021;Gaurav Pandey (ligmitz);Zulip;https://zulip.com
+21;SatNOGS TX capabilities;Michail Raptakis;Libre Space Foundation;https://libre.space
+22;Eye Tracking;Dinesh Sathia Raj;INCF;http://incf.org
+23;Benchmarking and improving Boost.Real;Suraj Kumar-3;Boost C++ Libraries;https://www.boost.org/
+24;Enhancing Zulip API Documentation Framework;Suyash Vardhan Mathur;Zulip;https://zulip.com
+25;Visualization Tools for TARDIS;Atharva Arya;TARDIS SN;https://tardis-sn.github.io/tardis/
+26;DeepChem Retrosynthesis;Ashwin M;Open Chemistry;https://openchemistry.org/
+27;Improving TensorFlow GAN Library;Nived P A;TensorFlow;https://www.tensorflow.org/
+28;Netlink proposal;Sean Ng;FreeBSD Project;https://www.freebsd.org/
+29;Multimodal TV Show Segmentation;Nitesh Mahawar;Red Hen Lab;http://redhenlab.org
+30;Mocking framework for virtio queues;Bogdan Grigoruță;QEMU;https://qemu.org/
+31;Input method in FreeBSD virtual terminal;Fan Chung;FreeBSD Project;https://www.freebsd.org/
+32;CloudEvents Plugin for Jenkins: Consume and Emit CloudEvents;Shruti Chaturvedi;Continuous Delivery Foundation;https://cd.foundation/projects/
+33;NEXT LEVEL AMQP;Xu Wang;Ceph;https://ceph.io
+34;Productionize XNNPACK Machine Learning Backend for Chrome OS;Wenhe Li;Chromium;https://www.chromium.org/
+35;(Activeloop) Create an interactive onboarding environment for new users of Hub;Debaditya Pal;Python Software Foundation;https://www.python.org/
+36;Generate New Task Library in TensorFlow Lite for Pose Landmark Detection;Milind Thakur;TensorFlow;https://www.tensorflow.org/
+37;P2P Messaging App;Harjeet;AOSSIE;https://aossie.gitlab.io/
+38;Porting PRoot to Rust;imlk;openSUSE Project;https://www.opensuse.org/
+39;Polaris: Produce rich analysis reports;ayush_bansal;Libre Space Foundation;https://libre.space
+40;Automated, Granular TLS client support in Thanos;Naman Lakhwani;CNCF;http://cncf.io
+41;OpenWRT PPA;Neelaksh Singh;freifunk;https://freifunk.net
+42;Revamping the UI;Rudraksh Aggarwal;Bench-Routes;https://bench-routes.netlify.com
+43;Ruma's Automated Checks;Devin Ragotzy;Matrix.org;https://matrix.org/
+44;Resolving problems with Apache Kafka examples using Charmil  Framework;Ankit Hans;JBoss Community;http://www.jboss.org/
+45;Anti-spoofing Techniques for GNSS Receivers;harshadms;GNSS-SDR;https://gnss-sdr.org/
+46;Create new matrix and vector types;Shikhar Vashistha;Boost C++ Libraries;https://www.boost.org/
+47;SIMD Optimized AABB Tree;Jackson Campolattaro;CGAL Project;https://www.cgal.org
+48;Director Engine;D.J. Servilla;ScummVM;https://www.scummvm.org/
+49;TMVA Deep Learning Developments - Inference Code Generation for Batch Normalization;Aaradhya Saxena;CERN-HSF;http://hepsoftwarefoundation.org/activities/gsoc.html
+50;[Data Retriever]: Support for Login/API;Aakash Chaudhary;NumFOCUS;http://numfocus.org/
+51;User friendly lexical training;naan_dhaan;Apertium;http://wiki.apertium.org
+52;libsecret: Extend file backend to use TPM2 derived encryption keys;Dhanuka Warusadura.;GNOME Foundation;https://gnome.org
+53;First-Class Email Bridge;Abhinav Krishna C K;Matrix.org;https://matrix.org/
+54;Omnichannel Project: Live Chat Widget - Accessible Mode;Ghulam Ghous;Rocket.Chat;https://github.com/RocketChat/Rocket.Chat
+55;Developer Options Menu;Yash_Raj;Oppia Foundation;https://github.com/oppia/oppia
+56;Addon Library Development - p5.teach.js;Aditya Siddheshwar;Processing Foundation;http://processingfoundation.org
+57;AsyncAPI Applications Relations Finder;Arjun Garg;Postman;https://www.postman.com/
+58;vcf2fhir for Structural Variants;Rohan Gupta;Global Alliance for Genomics and Health;https://ga4gh.org
+59;Background Estimation with Neural AutoRegressive Flows;Muhammad Ehsan ul Haq;Machine Learning for Science (ML4SCI) Umbrella Organization;http://ml4sci.org
+60;Speech-to-Text;Kartik_Gupta;Rocket.Chat;https://github.com/RocketChat/Rocket.Chat
+61;Automated (AutoML) tool to clean univariate time series at microscales.;Mayur Shende;The R Project for Statistical Computing;https://www.r-project.org/
+62;Peer-to-Peer Message Transfer;Tanya Prasad;AOSSIE;https://aossie.gitlab.io/
+63;Domain Adaptation for Decoding Dark Matter with Strong Gravitational Lensing;Marcos Tidball;Machine Learning for Science (ML4SCI) Umbrella Organization;http://ml4sci.org
+64;Go-Style Channels;Divye Nayyar;Chapel;https://chapel-lang.org/
+65;8-bit quantization in DNN Module;Jebastin Nadar;OpenCV;https://opencv.org
+66;Equirectangular Projection (ERP) and Cubemap Projection (CMP) conversion;Eugene Lyapustin;Intel Video and Audio for Linux;https://01.org/linuxmedia
+67;User Story - Improvements and new features;Sundeep Chand;Python Software Foundation;https://www.python.org/
+68;Migrating AngularJS components and Writing Frontend Tests;Radesh Kumar;Oppia Foundation;https://github.com/oppia/oppia
+69;pgagroal: Metrics and monitoring;Junduo Dong;PostgreSQL;https://www.postgresql.org
+70;Reduce Memory Usage - Radis;Gagan Aryan;openastronomy;http://www.OpenAstronomy.org
+71;Boston.gov Solar Roof Potential;Nnamdi;Mayor's Office of New Urban Mechanics (City of Boston);http://www.boston.gov/mechanics
+72;Crop Doc;Guillem Felis;Liquid Galaxy project;https://www.liquidgalaxy.eu/
+73;Enhancing the admin panel of openPIP;Aniket Ranjan;National Resource for Network Biology (NRNB);https://nrnb.org/gsoc.html
+74;Quality Assurance and Continuous Integration for Applications in Life Sciences and Medicine;Shruti Sridhar;Debian;https://www.debian.org
+75;End-to-End Deep Learning Regression for Measurements with the CMS Experiment;Anis Ismail;Machine Learning for Science (ML4SCI) Umbrella Organization;http://ml4sci.org
+76;Implementing an efficient algorithm for smarter boolean operations on vector shapes;Tanmay Chavan;KDE Community;https://www.kde.org
+77;Simulating Representational Communication in Vervet Monkeys;ankiitgupta7;Red Hen Lab;http://redhenlab.org
+78;Build an open-source realtime web video effects app;Pinku Deb Nath;MediaPipe;https://mediapipe.dev
+79;Dynamic Partitioning for Interval Joins in Asterix Database;Caleb Herbel;The Apache Software Foundation;https://www.apache.org
+80;Animating a poor man [PMR-III];Yash Bhambhu;CCExtractor Development;https://ccextractor.org/
+81;Native ROS2 support;Arsh Pratap;ArduPilot;https://ardupilot.org
+82;erdappy-griddap: Accessing gridded oceanographic data in near real time;Callum Rollo;Integrated Ocean Observing System (IOOS);https://ioos.noaa.gov/
+83;AXIOM Remote: Firmware Improvement And Extension;Aman Singh (eppisai);apertus° Association;https://www.apertus.org
+84;VLC macOS interface redesign;Sam Bassaly;VideoLAN;https://www.videolan.org/
+85;Open Geometry Viewer(OGV);Amanjot Singh;BRL-CAD;https://opencax.github.io
+86;(PyAr) PyZombies;Ybrahin Martinez;Python Software Foundation;https://www.python.org/
+87;Elastic Compute Cloud-based Amazon Machine Image for XWiki;Sanchita Singh;XWiki;https://www.xwiki.org/
+88;Enhance Recent topic view with Multiselect Dropdown List Widget And Implement Reusable Widgets;Aryan Shridhar;Zulip;https://zulip.com
+89;Liquid Galaxy Stellarium;Mithil;Liquid Galaxy project;https://www.liquidgalaxy.eu/
+90;Multi-threading in perf;Riccardo Mancini;The Linux Foundation;http://www.linuxfoundation.org/
+91;A frontend for Niffler DICOM framework for machine learning pipelines and processing workflows;Nishchal Singi;Department of Biomedical Informatics (BMI), Emory University School of Medicine;https://med.emory.edu/departments/biomedical-informatics/
+92;Machine Learning Credit Scorecard PHASE 4;Nasser Yemdjih Kaze;The Apache Software Foundation;https://www.apache.org
+93;Tensorflow GUI;Viraj Patel;Department of Biomedical Informatics (BMI), Emory University School of Medicine;https://med.emory.edu/departments/biomedical-informatics/
+94;Use eBPF to lock/unlock the network;Zeyad Gouda;CRIU;https://criu.org
+95;Introduce Support for Displaying Copyright Licenses;Abhay Garg;Oppia Foundation;https://github.com/oppia/oppia
+96;TripPy + DeepPavlov;Niklas Muennighoff;DeepPavlov;https://deeppavlov.ai/
+97;Adding React library to new UI;Aman Dwivedi;FOSSology;https://www.fossology.org/
+98;web-based simulator for scheduler behaviour (Project: Kubernetes);Kensei Nakada;CNCF;http://cncf.io
+99;3D Plotting;Jeffrey Paul;openastronomy;http://www.OpenAstronomy.org
+100;Matrix State of the Art;Rakshit P;Pharo Consortium;https://pharo.org/
+101;An object detection component for LearnBlock;Alejandro Fernández;RoboComp;https://robocomp.org
+102;corobo Enhancement Project;nakuldx;coala;https://coala.io
+103;Integrate Enzyme into Rust to Provide High-performance Differentiation in Rust;Chuyang Chen;The LLVM Compiler Infrastructure;http://llvm.org
+104;Moving Least Squares for point set smoothing and differential properties estimation;aniket agarwalla;CGAL Project;https://www.cgal.org
+105;Quality Improvements for Light & Shadow;Alluri Harshit Varma;The Terasology Foundation;https://terasology.org/
+106;New Release;James Culver;Pidgin Instant Messenger;https://pidgin.im
+107;Vitrivr Reads;Karan Singh;vitrivr;https://vitrivr.org
+108;Pocket Code for Android: HMS API Machine Learning and AI support;qlin;International Catrobat Association;https://www.catrobat.org
+109;Integrating NumPy into PySyft;Aditi Verma;OpenMined;https://www.openmined.org/
+110;Background Estimation with Neural Autoregressive Flows Proposal;Sinan Gençoğlu;Machine Learning for Science (ML4SCI) Umbrella Organization;http://ml4sci.org
+111;Work on enhancing Zulip's mobile experience.;Akash Dhiman;Zulip;https://zulip.com
+112;Command Palette;Bhuvaneshwar Vemula;Godot Engine;https://godotengine.org
+113;Upgrade Java Grammar from ANTLR2 to ANTLR4;Nicholas Mancuso;Checkstyle;https://checkstyle.org
+114;Integrating performance improvements from the Elm compiler into elm-format;Emma Bastås;Elm Tooling;https://github.com/elm-tooling?type=source
+115;Implement Retest Functionality;Pranav Saxena;OWASP Foundation;https://owasp.org
+116;The Multisite project;Yasharth Dubey;The Palisadoes Foundation;http://www.palisadoes.org/
+117;OpenCV bindings for Julia;Archit Rungta;OpenCV;https://opencv.org
+118;Polygon Based Collision Detection System;Nabeel Danish;The ENIGMA Team;https://enigma-dev.org
+119;Git credentials binding for sh, bat, and powershell;Harshit Chopra;Continuous Delivery Foundation;https://cd.foundation/projects/
+120;Coding style checker bot for Gerrit;Saloni;Haiku;http://www.haiku-os.org
+121;Improve the usability of cert-manager on multiple cloud providers;Arsh Sharma;CNCF;http://cncf.io
+122;Implement and improve several accessibility functions in Joomla! Keyboard navigation;KUMAR SHIVAM;Joomla!;https://www.joomla.org/
+123;Machine Learning Extension to Ignition Gazebo;Amr Elsersy;Open Robotics;https://www.openrobotics.org/
+124;GSOC 2021 Proposal - GUI for listing and managing available IPP services;Divyasheel;The Linux Foundation;http://www.linuxfoundation.org/
+125;Implementation of the data analysis compilation interface in a satellite monitoring simulator;R.David Aleman Ramos;AerospaceResearch.net;http://aerospaceresearch.net/
+126;Improvise Python Honeypot;Mrigank Anand;OWASP Foundation;https://owasp.org
+127;Implementation of the graded ring of quasimodular forms;David Ayotte;SageMath;https://www.sagemath.org/
+128;JSON Support for Golang libraries;Ujjwal Agarwal;SPDX;https://spdx.dev/
+129;Development of a DIY robot kit for educators;Georgios Giannakoulias;GFOSS - Open Technology Alliance;http://www.gfoss.eu
+130;Finish converting submodule to builtin;Atharva Raykar;Git;http://git-scm.com
+131;Building a Cronet-based HTTP package in Dart;Soumyadip Mondal;Dart;https://dart.dev/
+132;Implement RegNet-Y in TensorFlow 2;Aditya Kane;TensorFlow;https://www.tensorflow.org/
+133;PyTorch-Ignite: Development of a Higher-level API;Ahmed-1;NumFOCUS;http://numfocus.org/
+134;Shared Storage for Property Wrappers;Isabel Lima;Swift;http://swift.org
+135;Typed API for LuaRocks;Deepak Singh Rathore;LabLua;http://www.lua.inf.puc-rio.br
+136;Mesh Decimation using Probabilistic Quadrics;Julian Komaromy;CGAL Project;https://www.cgal.org
+137;An Electrophysiology Connectivity Package in the MNE Environment;Adam Li;Python Software Foundation;https://www.python.org/
+138;SAGA2 engine;a-yyg;ScummVM;https://www.scummvm.org/
+139;GSOC - Create cypress tests for wikipedia-preview;Shailesh Kanojiya;Wikimedia Foundation;http://wikimediafoundation.org/
+140;"A ""Bite-Sized"" BitArray";Mahanaz Atiqullah;Swift;http://swift.org
+141;Visualizing AV1 features using an analyzer;Nasir Hemed;VideoLAN;https://www.videolan.org/
+142;Visual Regression Testing of Ceph-Dashboard;Aaryan Porwal;Ceph;https://ceph.io
+143;Improve Robustness by fixing Issues / Feature Requests from the backlog;Benura Abeywardena;The Apache Software Foundation;https://www.apache.org
+144;Measuring QUIC and TLS censorship with OONI Probe;Kathrin Elmenhorst;Digital Impact Alliance (DIAL) at UN Foundation;https://www.digitalimpactalliance.org/
+145;100 Paper Cuts;Bayram Çiçek;LibreOffice;https://www.libreoffice.org/
+146;Peer to Peer Message Transfer;Ritik Jain;AOSSIE;https://aossie.gitlab.io/
+147;Scan8;Sarthak Singh;SCoRe Lab;http://www.scorelab.org/
+148;Fixing fundamental issues in LLVM IR: Introducing a byte type to solve load type punning;George Mitenkov;The LLVM Compiler Infrastructure;http://llvm.org
+149;Improve CVE database structure and tracking of multiple reports;Sahil;Python Software Foundation;https://www.python.org/
+150;Optimize Kernel::require API for Ruby 3;Xinyu Wang;Ruby;https://www.ruby-lang.org/
+151;Implementations of AVX-512 functions;Kunwar Maheep Singh;Open Bioinformatics Foundation;http://open-bio.org
+152;PcapMonkey Improvements;Hariom Chaturvedi;The Honeynet Project;https://honeynet.org
+153;Irdest Android Client;Ayush Shrivastava;freifunk;https://freifunk.net
+154;Applied equality saturation with Metatheory.jl;Alessandro Cheli;The Julia Language;https://julialang.org
+155;Support JOOQ API within gora-sql module;infaz;The Apache Software Foundation;https://www.apache.org
+156;A Frontend For Loopsim Framework To Model Workflows With Closed Loops;Shubham Awasthi;Department of Biomedical Informatics (BMI), Emory University School of Medicine;https://med.emory.edu/departments/biomedical-informatics/
+157;Regression Testing of Geometry Nodes;Himanshi Kalra;Blender Foundation;http://www.blender.org
+158;Extended Interoperability of ChemTools and Quantum Chemistry Software;Victor Hugo Cano Gil;Open Chemistry;https://openchemistry.org/
+159;Enabling and prototyping JavaScript visualizations in the Qt-based viewer TOPPView (OpenMS).;Dhanmoni Nath;Open Bioinformatics Foundation;http://open-bio.org
+160;Adapt schema editors to operate from model states instead of fake rendered models during migrate phase;Manav Agarwal;Django Software Foundation;https://www.djangoproject.com/
+161;Liquid Galaxy Image Satellite Visualizer;Octávio H. Müller Barrio;Liquid Galaxy project;https://www.liquidgalaxy.eu/
+162;On-Canvas Alignment Guides;Parth Pant;Inkscape;https://inkscape.org
+163;Implement TES in Galaxy/Pulsar;Vipul Chhabra;Global Alliance for Genomics and Health;https://ga4gh.org
+164;Expand ModelBricks.org and VCell API;Noah Liguori-Bills;National Resource for Network Biology (NRNB);https://nrnb.org/gsoc.html
+165;SCoRe Lab Open MF Proposal;Swapnal Shahil;SCoRe Lab;http://www.scorelab.org/
+166;Activity Cull;Jenniline Ebai;CiviCRM LLC;https://civicrm.org
+167;Utilize second order derivatives from Clad in ROOT;Baidyanath Kundu;CERN-HSF;http://hepsoftwarefoundation.org/activities/gsoc.html
+168;Scrapy: Feed Enhancements;D R Siddhartha;Python Software Foundation;https://www.python.org/
+169;Cut Mode;Pratyush Tiwari;Pitivi;https://www.pitivi.org/
+170;Catrobat iOS Team proposal for Ticket: Support for Catrobat Language version 0.994 - 0.99992;zwerg4;International Catrobat Association;https://www.catrobat.org
+171;Uncovering the Enigma of Type-Ia Supernovae: Thermonuclear Supernova Classification via their Nuclear Signatures;Sophia He;Machine Learning for Science (ML4SCI) Umbrella Organization;http://ml4sci.org
+172;"""Focus on the music"" - music-oriented editing for everyone";Piotrek Brzeziński;Pitivi;https://www.pitivi.org/
+173;VLC iOS UI update;Anubhav Singh-1;VideoLAN;https://www.videolan.org/
+174;Implement FALCON: Honest-Majority Maliciously Secure Framework for Private Deep Learning in SyMPC;Rasswanth S;OpenMined;https://www.openmined.org/
+175;Multilingual Support in the App;Sumitra Saksham;The Palisadoes Foundation;http://www.palisadoes.org/
+176;3D CAD scripting using Smalltalk;Mrinalkanti Roy;Pharo Consortium;https://pharo.org/
+177;Revolutionizing the Tasks API;Vivek Agrawal;Learning Equality;http://learningequality.org/
+178;A Python toolbox for computing high-order information in neuroimaging;Pranav Mahajan;INCF;http://incf.org
+179;JaxModel: A high level API for building purely functional models suitable for Molecular Predictions & Simulations;M. Vignesh Venkataraman;Open Chemistry;https://openchemistry.org/
+180;Infinite Scroll;Samarjeet Singh;Navidrome;https://navidrome.org
+181;Banking Service with Open Risk and Hydra Ecosystem;Purvansh Singh;Hydra Ecosystem;https://www.hydraecosystem.org/
+182;Implementation of Physical Shape Function;Aman  Verma;CERN-HSF;http://hepsoftwarefoundation.org/activities/gsoc.html
+183;3Dmol UI Design and Improved Controls;Jaxmatrix;Open Chemistry;https://openchemistry.org/
+184;Webiu;Yash;SCoRe Lab;http://www.scorelab.org/
+185;TX AArch64 Doubles SIMD Assembly;S.M Mukarram Nainar;FFmpeg;https://ffmpeg.org/
+186;From DNA sequences to metabolic interactions: building a pipeline to extract key metabolic processes;Haris Zafeiropoulos;GeomScale;https://geomscale.github.io/
+187;Implement IIIF read in Cineast;Tanmay Singal;vitrivr;https://vitrivr.org
+188;Extract important information from scientific papers;Rishab Mallick;Genome Assembly and Annotation;http://www.ebi.ac.uk
+189;Make it easy to install and verify the installation of cert-manager;Tim Ramlot;CNCF;http://cncf.io
+190;Machine Learning Model for the Planetary Albedo;Sofia Strukova;Machine Learning for Science (ML4SCI) Umbrella Organization;http://ml4sci.org
+191;Improve tooling, integrations, and testing infrastructure of Zulip;Ganesh Pawar;Zulip;https://zulip.com
+192;BeagleWire Software;Omkar  Bhilare;BeagleBoard.org Foundation;https://beagleboard.org
+193;GOING NATS;Matan;Ceph;https://ceph.io
+194;Path finding algorithm using OpenCV;Rupal Sharma;Center for Research in Open Source Software, UC Santa Cruz;http://cross.ucsc.edu
+195;Write Frontend Tests;Aishwary Saxena;Oppia Foundation;https://github.com/oppia/oppia
+196;Destination: Sol World-Gen Modularization;Isaiah Blanks;The Terasology Foundation;https://terasology.org/
+197;Improvements In WebUI for Nettacker;gupt4j1;OWASP Foundation;https://owasp.org
+198;Deluge Mobile client;Mohammad Arshad;CCExtractor Development;https://ccextractor.org/
+199;Block Based Circuit Design;Ninad Jangle;Free and Open Source Silicon Foundation;https://www.fossi-foundation.org
+200;Arabic Sign Language Recognition;Ahmed Moorsy;MediaPipe;https://mediapipe.dev
+201;NuttX Support for Rapid Control Applications Development with pysimCoder;Michal Lenc;The Apache Software Foundation;https://www.apache.org
+202;Multiple SSH key holding on CloudStack;Bikram Biswas-1;The Apache Software Foundation;https://www.apache.org
+203;Single-Cell pathway annotation pipeline;Joao Luiz;Open Genome Informatics;http://gmod.org/wiki/GSoC
+204;Buildpacks Lifecycle Prepare Phase;Halil İbrahim Ceylan;CNCF;http://cncf.io
+205;Remote Test System for AXIOM Remote;Vinayak Sankar;apertus° Association;https://www.apertus.org
+206;FFmpeg x86-64 assembly FFT;luc65r;FFmpeg;https://ffmpeg.org/
+207;Advancement through project merge;Tamara David;International Catrobat Association;https://www.catrobat.org
+208;Geospatial Tools for Post-Disaster Housing Analysis;Paulette Vazquez;Mayor's Office of New Urban Mechanics (City of Boston);http://www.boston.gov/mechanics
+209;Alexa Top Sites Captcha and Tor Block Monitoring;Apratim Ran Chak;Digital Impact Alliance (DIAL) at UN Foundation;https://www.digitalimpactalliance.org/
+210;On Canvas Marker Editing;Rachana Podaralla;Inkscape;https://inkscape.org
+211;Detecting Joint Meaning Construal by Language and Gesture;Nickil Maveli;Red Hen Lab;http://redhenlab.org
+212;Implement Edge Coloring Algorithm for pgRouting by the Boost Graph Library;Veenit Kumar;OSGeo - Open Source Geospatial Foundation;https://www.osgeo.org/
+213;Adding New Plots to ArviZ;Rishabh Sanjay;NumFOCUS;http://numfocus.org/
+214;API Conversion API;Sarthak Saxena;Postman;https://www.postman.com/
+215;Android SDK tools in Debian;Prateek Ganguli;Debian;https://www.debian.org
+216;H264/HEVC ARM64 10-bit assembly;Mikhail Nitenko;FFmpeg;https://ffmpeg.org/
+217;Enhance Accessibility of More ScummVM Engines by Text To Speech (TTS);Twan;ScummVM;https://www.scummvm.org/
+218;Redesigning GridWorlds.jl;Siddharth Bhatia;The Julia Language;https://julialang.org
+219;APISIX ingress controller integration with Knative Serving;Fang Hu;The Apache Software Foundation;https://www.apache.org
+220;Monitoring setup for EvalAI;Aviral Jain;CloudCV;https://cloudcv.org
+221;Apache CloudStack - Synchronization of network devices on newly added hosts for Persistent Networks;Sang Woo Bae;The Apache Software Foundation;https://www.apache.org
+222;Improve site architecture and add features to the Orcamap;Dhananjay Purohit;Orcasound;http://orcasound.net
+223;Capturing an abstracted model of Xilinx Artix7 using VTR;Arash Ahmadian;SymbiFlow;https://symbiflow.github.io/
+224;Fairness extension for mlr3;Siyi Wei;The R Project for Statistical Computing;https://www.r-project.org/
+225;Static code upload challenge evaluation and enhancements in GitHub based challenge creation;Savish Bedi;CloudCV;https://cloudcv.org
+226;Rucio and CS3API to enable data management for the ScienceMesh cloud;Rahul Chauhan-1;CERN-HSF;http://hepsoftwarefoundation.org/activities/gsoc.html
+227;Apertium Browser Plugin;Omkar Prabhune;Apertium;http://wiki.apertium.org
+228;Revamp Netengine and add its SNMP capability to OpenWISP Monitoring;Purhan Kaushik;OpenWISP;http://openwisp.org
+229;IMU Calibration & Self-Correction Algorithm for Open Source Autonomous Vehicle Controller;Rishikesh Vanarse;Center for Research in Open Source Software, UC Santa Cruz;http://cross.ucsc.edu
+230;Integration of Alternate Code Analysis Tools;Avishrant Sharma;AboutCode;https://www.aboutcode.org
+231;Update the front-page of Wikimedia projects;Bhaarat Kumar Khatri;Wikimedia Foundation;http://wikimediafoundation.org/
+232;Implementation of NEON functions (SIMDe);Atharva Nimbalkar;Open Bioinformatics Foundation;http://open-bio.org
+233;Enhanced figure support in pandoc;Aner Lucero;Haskell.org;http://haskell.org
+234;SciML : Discretizations of partial differential equations;Mohammed Jeeshan Sheikh;NumFOCUS;http://numfocus.org/
+235;Graphical-User Interface for affective human-robot interactions;Aditya Kasibhatla;RoboComp;https://robocomp.org
+236;💻 GSoC 2021: Improve Computer Vision Sample Apps of TensorFlow Lite;Sayan Nath;TensorFlow;https://www.tensorflow.org/
+237;Transliterations editor and API;Vishv Kakadiya;Cuneiform Digital Library Initiative (CDLI);https://cdli.ucla.edu
+238;Simultaneous path planning and following using Model Predictive Control (SPAF);Yassmin Hesham;RoboComp;https://robocomp.org
+239;Reactome Pathway Embeddings;Lovro Vrcek;Open Genome Informatics;http://gmod.org/wiki/GSoC
+240;A Feature Probe API for cilium/ebpf;rgo3;Cilium;https://cilium.io
+241;Cookie Management System;Rishabh Ranjan Jha;Joomla!;https://www.joomla.org/
+242;Implement 3D scene visualization support using Potree and integrate with MapMint;Aniket Giri;OSGeo - Open Source Geospatial Foundation;https://www.osgeo.org/
+243;gghexbin: An R package to enable the creation of high quality hexagonally binned graphs that can exploit all of ggplot2’s functionality;Ajay-1;The R Project for Statistical Computing;https://www.r-project.org/
+244;Improve and add to the drone exercises;Arkajyoti Basak;JdeRobot - Universidad Rey Juan Carlos;https://jderobot.github.io/
+245;spectral-workbench.js JS/Rails integration (Public Lab);Mohammad Warid;Public Lab;https://publiclab.org
+246;An orchestration system for MGnify running on distributed heterogeneous compute clusters;Ank;Genome Assembly and Annotation;http://www.ebi.ac.uk
+247;Design and implementation of Code is Science front-end using ReactJS;Isaac Miti;Open Bioinformatics Foundation;http://open-bio.org
+248;Differentiable GraphBLAS;William Kimmerer;The Julia Language;https://julialang.org
+249;Improving Functionality of OpenMF-GSOC'21;Sachin Som;SCoRe Lab;http://www.scorelab.org/
+250;Joomla Core Feature Enhancements;Yatharth Vyas;Joomla!;https://www.joomla.org/
+251;EAT - EAP Additional Testsuite;Stefanos Vlachos;JBoss Community;http://www.jboss.org/
+252;Project Strings: Improving strings support in Fortran;Aman Godara;Fortran-lang;https://fortran-lang.org
+253;Eventyay Open Event : Refactor frontend in Ember to React, Improve features in Server;Meghal Bisht;Digital Impact Alliance (DIAL) at UN Foundation;https://www.digitalimpactalliance.org/
+254;MediaCMS - modern, fully featured video and media CMS;Shubhank Saxena;GFOSS - Open Technology Alliance;http://www.gfoss.eu
+255;Support of the simulation-based inference with the model fitting toolbox;Ante Lojic Kapetanovic;INCF;http://incf.org
+256;Implement 3D scene visualization support using Potree and integrate with MapMint;Aryan Kenchappagol;OSGeo - Open Source Geospatial Foundation;https://www.osgeo.org/
+257;Developing WellcomeML further for the visualisation of academic research data;Federica Trevisan;Open Bioinformatics Foundation;http://open-bio.org
+258;TLA+ Spec for Async Commit;Zhuoran He;CNCF;http://cncf.io
+259;Improvemens to simpPRU;Archisman Dey;BeagleBoard.org Foundation;https://beagleboard.org
+260;Bring professional efficiency to OpenWISP WiFi Login Pages;Sankalp (codesankalp);OpenWISP;http://openwisp.org
+261;Finnish, Olonets-Karelian and Karelian lexicon development;Timo Rantakaulio;Apertium;http://wiki.apertium.org
+262;LORIS Codebase Maintenance and Automated Testing;Viet Hoang;INCF;http://incf.org
+263;Reimplementing Open Event Frontend in React;Sundaram Dubey;Digital Impact Alliance (DIAL) at UN Foundation;https://www.digitalimpactalliance.org/
+264;Beacon;Nishtha Bodani;CCExtractor Development;https://ccextractor.org/
+265;Quantum Gate Decomposition for QuTip;Purva Thakre;NumFOCUS;http://numfocus.org/
+266;Export and Import Feature for the OMRS Reporting Module;Heshan Andrews;OpenMRS;https://openmrs.org
+267;Redesigning and Updating the Learner Dashboard Page.;Krishita Jain;Oppia Foundation;https://github.com/oppia/oppia
+268;VulnerableCode importers refactoring and addition;Hritik Vijay;AboutCode;https://www.aboutcode.org
+269;CCSDS Space Packet / USLDP Transport Layer for Python and MicroPython;Sidharth Shambu;LibreCube Initiative;https://librecube.org/
+270;Improving Zulip Bots and Integrations.;Zixuan Li;Zulip;https://zulip.com
+271;Learning Loop Transformation Heuristics;Ali Sedaghati;The LLVM Compiler Infrastructure;http://llvm.org
+272;Implement a CheckBox Group in App Inventor;Hardik Thami;MIT App Inventor;http://appinventor.mit.edu
+273;Dynamics Algorithmic Improvements;Alexander Galarraga;SageMath;https://www.sagemath.org/
+274;Opening hours tag evaluator;Vuong Ho;OpenStreetMap;http://www.openstreetmap.org/
+275;User Story - Improvements and New Features;Harshita Mangla;Python Software Foundation;https://www.python.org/
+276;Custom formatting of strings in MariaDB queries;Alan Cueva;MariaDB Foundation;https://mariadb.org
+277;Finalizing the 2D Regularized Boolean Set Operations Demo;Kabir;CGAL Project;https://www.cgal.org
+278;Translation System Refinement;Ajit Mujumdar;Public Lab;https://publiclab.org
+279;CuPy: Extending CuPy coverage of SciPy functions;Praveen Sahu;NumFOCUS;http://numfocus.org/
+280;COMDEV-412 Apache DolphinScheduler Parameter coverage;nrumeshp;The Apache Software Foundation;https://www.apache.org
+281;Courseware as Code Enablement;Alejandro Rusi;GitLab;https://gitlab.com
+282;Automated Twitter bot to run PyBaMM Simulations;Saransh Chopra;NumFOCUS;http://numfocus.org/
+283;Utilize LoopNest Pass;Toshiki Maekawa;The LLVM Compiler Infrastructure;http://llvm.org
+284;Assessing the Performance Effects of Adding New Synthesized Rewrite Rules to Halide;Evan Lee;Halide;https://halide-lang.org
+285;Smart automation for project documentation and website;Saswata Mukherjee;CNCF;http://cncf.io
+286;Suggest, implement and publish state-of-the-art ML models in TensorFlow 2;Mehdi Mabrouki;TensorFlow;https://www.tensorflow.org/
+287;[Data Retriever] Adding Spatial Dataset Support - Kush Kothari;Kush Kothari;NumFOCUS;http://numfocus.org/
+288;[Litmus Portal] Authentication Module Refactor and OAuth Implementation;Hemanth Krishna;CNCF;http://cncf.io
+289;Adapting algorithms to C++ 20 and Ranges TS;Akhil J Nair;STE||AR Group;http://stellar-group.org/
+290;Orbit Satellite Visualizer for Liquid Galaxy;Albert Morea;Liquid Galaxy project;https://www.liquidgalaxy.eu/
+291;PyAfipWs: Integration & Deployment with Github actions and addition of new features;Utkarshkumar;Python Software Foundation;https://www.python.org/
+292;Expanded and Enhanced Big Data Infrastructure on Gentoo;Leo Liao;Gentoo Foundation;http://www.gentoo.org/
+293;Geo Team Proposal: Improvements to backup and restore process;Shubham Kumar-1;GitLab;https://gitlab.com
+294;Result Reporter Tool for Bears;Shreya Agarwal;coala;https://coala.io
+295;Bringing the context to the translators by a magic gate .;sary nasser;LibreOffice;https://www.libreoffice.org/
+296;Implement ClosedTabCache;Tobias Soppa;Chromium;https://www.chromium.org/
+297;Develop an Android Mobile Application For Newborn Clinical Decision Support;Darshpreet Singh;LibreHealth;https://librehealth.io
+298;Tests for debugger;Naoto Ono;Ruby;https://www.ruby-lang.org/
+299;Plasma Mobile - Akonadi Calendar;Claudio Cambra;KDE Community;https://www.kde.org
+300;Gradually Typed Hasktorch;Julius Marozas;Haskell.org;http://haskell.org
+301;A Framework for Multiobjective Optimizers;Nanubala Gnana Sai;mlpack;https://www.mlpack.org/
+302;Implement sorting methods for PostGIS data types before building GiST index;HanwGeek;OSGeo - Open Source Geospatial Foundation;https://www.osgeo.org/
+303;FastAI.jl Development;Manikya Bardhan;The Julia Language;https://julialang.org
+304;Video Sequence Editor Improvements - Individual strip previews and modification indicators;Aditya Jeppu;Blender Foundation;http://www.blender.org
+305;Ask SCORE - Community App;Abhi Kulshrestha;SCoRe Lab;http://www.scorelab.org/
+306;Application for Embroidery Robot Programming using Pocket Code IDE;Ludwig Reinhardt;International Catrobat Association;https://www.catrobat.org
+307;MDAnalysis module to calculate membrane curvature;Estefania Barreto-Ojeda;MDAnalysis;https://www.mdanalysis.org
+308;Improve Frontend Type System;Eesha Arif;Oppia Foundation;https://github.com/oppia/oppia
+309;XFS FUSE FreeBSD Port;Khaled Emara;FreeBSD Project;https://www.freebsd.org/
+310;Heap Viewer;Pulak Malhotra;Rizin;https://rizin.re
+311;GSoC’ 21: The Palisadoes Foundation;Ritik Kumar Srivastava;The Palisadoes Foundation;http://www.palisadoes.org/
+312;Modern Plotting Machinery for the Large Hadron Collider's Monte Carlo Event Analysis Tool;Matthew Filipovich;CERN-HSF;http://hepsoftwarefoundation.org/activities/gsoc.html
+313;Faces engine Improvements;Nghia Duong;KDE Community;https://www.kde.org
+314;Efficient and Scalable LP-based Multi-Stage Decision Making in R;Minshuo Chen;The R Project for Statistical Computing;https://www.r-project.org/
+315;Bug Logging Tool;ankit2001;OWASP Foundation;https://owasp.org
+316;Adding Interactive Notebooks for Algorithms Implemented in NetworkX;Harshal Dupare;NumFOCUS;http://numfocus.org/
+317;Integrating Pandas into Syft;arpitvaghela;OpenMined;https://www.openmined.org/
+318;Porting popular modifiers to Geometry Nodes;Fabian Schempp;Blender Foundation;http://www.blender.org
+319;GSoC 2021 Proposal -- Implement schema validators for the handler params  (Nikhil Agarwal);Nikhil Agarwal;Oppia Foundation;https://github.com/oppia/oppia
+320;MIGRATE SPDX ONLINE TOOLS TO DJANGO 3;Umang Taneja;SPDX;https://spdx.dev/
+321;Automatic Generation of schema from directory;Eshan Arora;Python Software Foundation;https://www.python.org/
+322;Finding bugs related to memory errors in Linux Kernel and improving environment model specifications for static verification;Nadezda Lutovinova;The Linux Foundation;http://www.linuxfoundation.org/
+323;Write Frontend Tests;Gangavarapu Praneeth;Oppia Foundation;https://github.com/oppia/oppia
+324;GSOC Stan Proposal - Bayesian Computation Benchmark;Khanh-Tung Nguyen-Ba;NumFOCUS;http://numfocus.org/
+325;Enhancing clang-bind;Divyanshu Madan;Point Cloud Library;https://pointclouds.org/
+326;Utilizing Speech-to-Speech Translation to Facilitate a Multilingual Text, Audio, and Video Message Board and Database;Hannes;Red Hen Lab;http://redhenlab.org
+327;Improve Metric Module;Arpan Parikh;NumFOCUS;http://numfocus.org/
+328;Rework of Faces of GNOME website;Arijit Kundu;GNOME Foundation;https://gnome.org
+329;Speech recognition using OpenCV Audio IO module;Shivanshu Tyagi;OpenCV;https://opencv.org
+330;ReactOS implement iernonce.dll for RunOnceEx;He Yang;ReactOS;https://reactos.org
+331;Improvements to nls();Arkajyoti Bhattacharjee;The R Project for Statistical Computing;https://www.r-project.org/
+332;Tight-Binding Atomic Graph Neural Networks;Anant Thazhemadam;The Julia Language;https://julialang.org
+333;New library catalogue UI for Kiwix-serve;Manan Jethwani;Kiwix;https://www.kiwix.org
+334;Bioinformatics with Jupyter Notebooks;Prajna;Open Genome Informatics;http://gmod.org/wiki/GSoC
+335;Adding new activities;Harsh Kumar;KDE Community;https://www.kde.org
+336;FURY: Ribbon and Molecular Surface Representations for Proteins;SunTzunami_8_24;Python Software Foundation;https://www.python.org/
+337;Towards a neural extraction framework;Ziwei XU;DBpedia;https://www.dbpedia.org/
+338;Apache ShardingSphere - Proofread the Oracle DDL/TCL SQL Definitions;Liangda Wang;The Apache Software Foundation;https://www.apache.org
+339;Tests for the VCL graphics backend;Akshit Kushwaha;LibreOffice;https://www.libreoffice.org/
+340;Redesigning Health's MainView;visvesh subramanian;GNOME Foundation;https://gnome.org
+341;Inlay type hints for SourceKit-LSP;Fredrik Wieczerkowski;Swift;http://swift.org
+342;LSB: Analysis & Fixing of Race Condition Warnings in the Linux Kernel;Saubhik Mukherjee;The Linux Foundation;http://www.linuxfoundation.org/
+343;Formal Verification of Mor1kx processor using Yosys-Formal tools;Harshitha S;Free and Open Source Silicon Foundation;https://www.fossi-foundation.org
+344;Inlining: using locally optimal inlining decisions;Liq Tao;The LLVM Compiler Infrastructure;http://llvm.org
+345;Extending the features of the vulnerable code snippets;Ayas Behera;OWASP Foundation;https://owasp.org
+346;3D Barycentric Coordinates for Convex Polyhedra with Triangular Faces;Antonio Gomes;CGAL Project;https://www.cgal.org
+347;Implement Wave2Vec2 in TensorFlow 2 & publish it in TensorFlow Hub;Vasudev Gupta;TensorFlow;https://www.tensorflow.org/
+348;OpenWISP REST API;Manish Kumar Shah;OpenWISP;http://openwisp.org
+349;GPU backend for QuTip;felipe bivort haiek;NumFOCUS;http://numfocus.org/
+350;Distributed lit testing;Soham Dixit;The LLVM Compiler Infrastructure;http://llvm.org
+351;Improving the UX of Zulip Terminal;Sai Rohitth Chiluka;Zulip;https://zulip.com
+352;Shell: update screenshot and screen recorder;Ivan Molodetskikh;GNOME Foundation;https://gnome.org
+353;Direct Code Execution Modernization;Parth Pratim Chatterjee;The ns-3 Network Simulator Project;http://www.nsnam.org
+354;Python Argentina: <PyZombis project> Continue the implementation of the course in the Runestone environment;Leonardo Cumplido;Python Software Foundation;https://www.python.org/
+355;Jupyter Notebook Integration;Abdallah Elshamy;GNU Octave;http://www.octave.org
+356;Visit the World;Otávio Oliveira;Liquid Galaxy project;https://www.liquidgalaxy.eu/
+357;Slagora API and Admin Dashboard;Shu Richmond;AOSSIE;https://aossie.gitlab.io/
+358;Eventyay Open Event: Stabilise project, fix bugs and implement new features.;Sachin Chauhan;Digital Impact Alliance (DIAL) at UN Foundation;https://www.digitalimpactalliance.org/
+359;Improve support for singledispatch;Pranav Rajpal;mypy;http://mypy-lang.org/
+360;Discovery Search and Advanced Search features;Yashraj Desai;Cuneiform Digital Library Initiative (CDLI);https://cdli.ucla.edu
+361;Depicting of Graphical Communication Systems (GCS) in Aztec/Central Mexican manuscripts with Deep Learning: glyphic visual recognition and deciphering using Keras;Lisardo Pérez Lugones;Red Hen Lab;http://redhenlab.org
+362;On-canvas interactive boolean operations;Osama Ahmad;Inkscape;https://inkscape.org
+363;Casbin plugin for Kubernetes;Ashish  Malik;Casbin;https://casbin.org/
+364;MSUI UI Redesign;Aravind Murali;Python Software Foundation;https://www.python.org/
+365;Systematically explore bit-flip faults in user-specified variables in Java  programs;Pu (Luke) Yi;Java PathFinder;https://github.com/javapathfinder/jpf-core/wiki
+366;CodeLabz;Kalana Mihiranga;SCoRe Lab;http://www.scorelab.org/
+367;Web App UI Cleanup;Prakhar Agarwal;Purr Data;https://www.purrdata.net/
+368;TensorFlow data backend for QuTiP;Asier Galicia;NumFOCUS;http://numfocus.org/
+369;Quple - Quantum GAN;Chi Lung Cheng;Machine Learning for Science (ML4SCI) Umbrella Organization;http://ml4sci.org
+370;Optimizing build and deploy in Kworkflow: towards the Beta release;João Seckler;The Linux Foundation;http://www.linuxfoundation.org/
+371;DESIGN CHALLENGE;Aradhana Kund;Cuneiform Digital Library Initiative (CDLI);https://cdli.ucla.edu
+372;Trust anchor management for drg;Vedang Joshi;JBoss Community;http://www.jboss.org/
+373;Okular: Improve Custom/Image Stamp Annotation Handling;Mahmoud Khalil;KDE Community;https://www.kde.org
+374;Improving Image Lab Project UI/UX;Pola Hano Shehat;SCoRe Lab;http://www.scorelab.org/
+375;Async Support for TensorFlow Backend in FFmpeg;Shubhanshu Saxena;Intel Video and Audio for Linux;https://01.org/linuxmedia
+376;End-to-end tests for DLP (Data Leak Prevention);Vishal Chaudhary;Chromium;https://www.chromium.org/
+377;Efficient Realistic Image Manipulation;Daniil Pakhomov;MediaPipe;https://mediapipe.dev
+378;Implement support for ScalaPy in Scala 3;Mykola Medynskyi;Scala Center;http://scala.epfl.ch
+379;Korean Translations and Website Improvements;Joseph Hong;Processing Foundation;http://processingfoundation.org
+380;Red Hen Rapid Annotator;Mohamed Mokhtar;Red Hen Lab;http://redhenlab.org
+381;Introducing Ephemeral Channels in Rocket.Chat;Darshil Patel;Rocket.Chat;https://github.com/RocketChat/Rocket.Chat
+382;Shell: Implementing Layout Managers in Rust;zbrown;GNOME Foundation;https://gnome.org
+383;Hiding Issues in the Issues Panel in Chrome DevTools;Rahat Muneeb;Chromium;https://www.chromium.org/
+384;SwiftPM support for Swift scripts;Yongrong Chen;Swift;http://swift.org
+385;Development of  a Visual Recognition model for Aztec Hieroglyphs;Tarun Nagdeve;Red Hen Lab;http://redhenlab.org
+386;HA-Auto:  Node-RED Compatible DSL for Home Automation;CedArctic;GFOSS - Open Technology Alliance;http://www.gfoss.eu
+387;IIO Driver: ADXL355 Accelerometer;Puranjay Mohan;The Linux Foundation;http://www.linuxfoundation.org/
+388;Single precision support for GPU acceleration in VecGeom;Martin Kostelník;CERN-HSF;http://hepsoftwarefoundation.org/activities/gsoc.html
+389;App: Bad-Words Filter;Yash Rajpal;Rocket.Chat;https://github.com/RocketChat/Rocket.Chat
+390;Implementing new language pair: Kazakh - Uzbek;Kamush;Apertium;http://wiki.apertium.org
+391;Make Deepchem More Robust: Implement Cutting-Edge Models and Other Features;Atreya Majumdar;Open Chemistry;https://openchemistry.org/
+392;Language Server for RBS;Yuki Osaki;Ruby;https://www.ruby-lang.org/
+393;Tree-based models;Dinko Franceschi;TensorFlow;https://www.tensorflow.org/
+394;Interpersonal Identity Verification;Quinn Okabayashi;openSUSE Project;https://www.opensuse.org/
+395;Angular Migration;Ashutosh_Chauhan;Oppia Foundation;https://github.com/oppia/oppia
+396;OPEN DATA KIT: Improve the suitcase application;Subham Raj;Digital Impact Alliance (DIAL) at UN Foundation;https://www.digitalimpactalliance.org/
+397;Multi currency memberships;Nkoa Christophe;CiviCRM LLC;https://civicrm.org
+398;LLVM JIT engine for Tarantool's DQL;Georgiy Lebedev;Tarantool;http://tarantool.io
+399;Development of a vhost-user-vsock application and its integration with kata contianers;Harshavardhan Unnibhavi;QEMU;https://qemu.org/
+400;MCMC Chains improvements;Paulina Martin;The Julia Language;https://julialang.org
+401;Boost.Math: FFT Utilities;Eduardo Quintana Miranda;Boost C++ Libraries;https://www.boost.org/
+402;Android native app for network selection capability in LibreMesh routers;Tomás Assenza;freifunk;https://freifunk.net
+403;Using Lightweight Specifications with Fuzzing and Symbolic Execution to Reveal Security and Semantic Bugs;Amirfarhad Nilizadeh;Java PathFinder;https://github.com/javapathfinder/jpf-core/wiki
+404;Chord Symbol Style Editor;Ashwath V A;MuseScore;http://musescore.org/
+405;Expanding support for Kworkflow: bootloaders  and Linux distributions;Alan Barzilay;The Linux Foundation;http://www.linuxfoundation.org/
+406;LasoMax;Kartik Bansal;gprMax;http://www.gprmax.com
+407;RooFit Development - Intuitive Python bindings for RooFit;Harshal Anil Shende;CERN-HSF;http://hepsoftwarefoundation.org/activities/gsoc.html
+408;Porting BaseJump STL to FuseSoC;Adithya Sunil Edakkadan;Free and Open Source Silicon Foundation;https://www.fossi-foundation.org
+409;Introduce audio calls to LiveChat;Dhruv Jain;Rocket.Chat;https://github.com/RocketChat/Rocket.Chat
+410;Improvement in Export Options;Anshudhar Kumar Singh;Inkscape;https://inkscape.org
+411;New Virtual Raster Data Provider for Raster Calculator in QGIS;Francesco Bursi;OSGeo - Open Source Geospatial Foundation;https://www.osgeo.org/
+412;Parallelising Verilog RTL Simulations Using MPI;Guillem Lopez Paradis;Free and Open Source Silicon Foundation;https://www.fossi-foundation.org
+413;Improved Integration of String Solvers in SPF;Marlin Roberts;Java PathFinder;https://github.com/javapathfinder/jpf-core/wiki
+414;Plug and Play Language Models in Julia;Adarsh Kumar;The Julia Language;https://julialang.org
+415;Neural QA Model for DBPedia;Siddhant Jain;DBpedia;https://www.dbpedia.org/
+416;Replacing boost spirits;Gopi Manohar Tatiraju;mlpack;https://www.mlpack.org/
+417;Enhancing the Zulip Terminal Experience;Hari Prashant Bhimaraju;Zulip;https://zulip.com
+418;GSOC 2021 CodeLabz Proposal;Lycanthrope;SCoRe Lab;http://www.scorelab.org/
+419;E2E Testing for Android in Rocket.Chat.ReactNative;Anant Bhasin;Rocket.Chat;https://github.com/RocketChat/Rocket.Chat
+420;Machine detection of film edits;Amr Maghraby;Red Hen Lab;http://redhenlab.org
+421;Geopandas - Dask bridge to scale geospatial analysis;tastatham;NumFOCUS;http://numfocus.org/
+422;Model Serialization and Pathfinding  for Agents.jl;Aayush Sabharwal;The Julia Language;https://julialang.org
+423;Voice Channels;Rahul Halder;Rocket.Chat;https://github.com/RocketChat/Rocket.Chat
+424;SOVABIDS: A python package for the automatic conversion of MEG/EEG datasets that makes the most out of metadata;Yorguin Mantilla Ramos;INCF;http://incf.org
+425;Improvements in EvalAI frontend;Gautam Jajoo;CloudCV;https://cloudcv.org
+426;Final Step Towards Deployment;ABHISHEK AGARWAL;AOSSIE;https://aossie.gitlab.io/
+427;Extend available models and default priors in Bambi;Tomas Capretto;NumFOCUS;http://numfocus.org/
+428;Distribution Checks;Mai Nguyen;MGGG Redistricting Lab;https://mggg.org
+429;OpenWRT package for OpenWISP Monitoring;Kapil (devkapilbansal);OpenWISP;http://openwisp.org
+430;Improving Conflict Resolution Process;Ahmed Alwasifey;Joplin;https://joplinapp.org/
+431;Improving rutorrent mobile interface;Rajan Jaiswal;CCExtractor Development;https://ccextractor.org/
+432;Making Smart Pointer Checkers default checkers in the Static Analyzer;Deep Majumder;The LLVM Compiler Infrastructure;http://llvm.org
+433;Interface for reporting search bugs for Nominatim;Yash Srivastava;OpenStreetMap;http://www.openstreetmap.org/
+434;Port wiki to ReadTheDocs or another documentation platform;Yash Jipkate;Center for Research in Open Source Software, UC Santa Cruz;http://cross.ucsc.edu
+435;Predictive Text Input for Virtual Reality;Remco Kranenburg;xrdesktop;https://gitlab.freedesktop.org/xrdesktop/xrdesktop/-/wikis/home
+436;Implementing better language detection and reimplementing search_dates;Gavish Poddar;Python Software Foundation;https://www.python.org/
+437;GSoC Proposal: Multi-Start Optimization Methods;Ping Zhang;NumFOCUS;http://numfocus.org/
+438;Socket Library;Lakshya Singh;Chapel;https://chapel-lang.org/
+439;Shifting VisualCircuit to a web server;Suhas G;JdeRobot - Universidad Rey Juan Carlos;https://jderobot.github.io/
+440;FFT assembly;Martynas Stankevičius;FFmpeg;https://ffmpeg.org/
+441;Musicbrainz Android App: Dawn of Showdown;Akshat Tiwari;MetaBrainz Foundation Inc;https://metabrainz.org
+442;Optimizing OpenCV DNN for RISC-V;Liutong HAN;OpenCV;https://opencv.org
+443;Complete Rust binding for the MusicBrainz API;Ritiek Malhotra;MetaBrainz Foundation Inc;https://metabrainz.org
+444;Minimum Platform Board Port - Acer Aspire VN7-572G;Benjamin Doron;TianoCore;https://www.tianocore.org/
+445;NetworkX: Implementing the Asadpour Asymmetric Traveling Salesman Problem Algorithm;Matt Schwennesen;NumFOCUS;http://numfocus.org/
+446;Sample Diagnostics App for ChromeOS;Aayush Joglekar;Chromium;https://www.chromium.org/
+447;A Software ISP Implementation with OpenCL;Siyuan Fan;libcamera;https://libcamera.org
+448;SBML4Humans - Interactive SBML Report for Humans;Sankha Das;National Resource for Network Biology (NRNB);https://nrnb.org/gsoc.html
+449;Retroshare Mobile;Avinash;freifunk;https://freifunk.net
+450;Portability for the Patatrack Pixel Track Reconstruction with Alpaka;Adrian-Antonio Petre;CERN-HSF;http://hepsoftwarefoundation.org/activities/gsoc.html
+451;Neural Hybrid Differential Equations and Adjoint Sensitivity Analysis;Frank Schäfer;NumFOCUS;http://numfocus.org/
+452;Adding Support for Resampling Data with NDCube;Adwait Bhope;openastronomy;http://www.OpenAstronomy.org
+453;Static Analysis Checks + Improvements;Sparsh Agrawal;Oppia Foundation;https://github.com/oppia/oppia
+454;Making FOSSology architecture microservice friendly;Omar  AbdelSamea;FOSSology;https://www.fossology.org/
+455;Implementation of FHIRPath for FHIRProto in a Java library;Deepro Choudhury;Google FHIR SDK;https://github.com/google/android-fhir
+456;Implementing table styles DOCX support;Balázs Sántha;LibreOffice;https://www.libreoffice.org/
+457;WebView Components UI;A5hut05h;Chromium;https://www.chromium.org/
+458;VVC Parser for Gstreamer;Hongcheng Zhong;Intel Video and Audio for Linux;https://01.org/linuxmedia
+459;CrawlerX - Distributed crawling system;Sandagomi Pieris;SCoRe Lab;http://www.scorelab.org/
+460;Sastix-CMS: A general purpose Java CMS in Spring Boot;Ilias Kyranas;GFOSS - Open Technology Alliance;http://www.gfoss.eu
+461;Large Scale Protein Modeling in DeepChem;Alana Xiang;Open Chemistry;https://openchemistry.org/
+462;Reworking Rizin's binary loading;Alexis Ehret;Rizin;https://rizin.re
+463;Dhall bindings to TOML configuration language;Marcos Lerones;Haskell.org;http://haskell.org
+464;"Implement ""Series"" entity for BookBrainz";Akash Gupta;MetaBrainz Foundation Inc;https://metabrainz.org
+465;Lifecycle Management of DBpedia Neural QA Models - Sahan Dilshan;Sahan Dilshan;DBpedia;https://www.dbpedia.org/
+466;Extending C++ support for static analysis pass;Ankur Saini;GNU Compiler Collection (GCC);https://gcc.gnu.org/
+467;Android FHIR SDK Peer to Peer transfer;anubhav sharma;Google FHIR SDK;https://github.com/google/android-fhir
+468;Yeming Gu's GSoC proposal for CHAOSS;Yeming Gu;CHAOSS Project;https://chaoss.community
+469;Runtime plugin ecosystem support for OCIS;Jimil Desai;CERN-HSF;http://hepsoftwarefoundation.org/activities/gsoc.html
+470;Beacon Backend;Aadi Bajpai;CCExtractor Development;https://ccextractor.org/
+471;Increase support for time-series and regressions (Python);Utkarsh Maheshwari;NumFOCUS;http://numfocus.org/
+472;Creation of a Benchmark Suite;Captain Yoshi;MoveIt;https://moveit.ros.org
+473;Sorting Hat - Extend data model and user interface to capture better information about contributors;Rashmi K A;CHAOSS Project;https://chaoss.community
+474;Simple Enrichment Tool for Analysis;Indraneel Ghosh;National Resource for Network Biology (NRNB);https://nrnb.org/gsoc.html
+475;Center of Satellite Signal in the Frequency Domain;Binh-Minh Tran-Huu;AerospaceResearch.net;http://aerospaceresearch.net/
+476;Rigorous integration and the Abel-Jacobi map;Linden Disney-Hogg;SageMath;https://www.sagemath.org/
+477;DNSTool Middleware/API;Ramanujan;SCoRe Lab;http://www.scorelab.org/
+478;enviroCar Platform Independent App;D Ajay Kumar;52°North GmbH;https://52north.org/
+479;Upgrading DevoLearn;Mainak Deb;INCF;http://incf.org
+480;Media Manager;Eyvaz Ahmadzada;Joomla!;https://www.joomla.org/
+481;Ideas for Google Summer of Code/Morphological analyser;Okonkwo Ifeanyichukwu;Apertium;http://wiki.apertium.org
+482;Add Robust Betas to Performance Analytics;DhairyaJain;The R Project for Statistical Computing;https://www.r-project.org/
+483;Login/Signup Implementation;amanpro30;OWASP Foundation;https://owasp.org
+484;Closures in Pallene;Srijan Paul;LabLua;http://www.lua.inf.puc-rio.br
+485;AsyncAPI Application simulation;Nektarios Gkikakis Fifes;Postman;https://www.postman.com/
+486;High Performance Data Channel for Duet;vsquareg;OpenMined;https://www.openmined.org/
+487;ROOT Storage of Deep Learning models in TMVA;Sanjiban Sengupta;CERN-HSF;http://hepsoftwarefoundation.org/activities/gsoc.html
+488;DNSTool proposal;Jeevi;SCoRe Lab;http://www.scorelab.org/
+489;Haskell in CodeMirror 6;Olivian Cretu;Haskell.org;http://haskell.org
+490;TumorComparer, updated version;Siras Hakobyan;National Resource for Network Biology (NRNB);https://nrnb.org/gsoc.html
+491;Handling compiler arguments;Jakub Jelinek;Fortran-lang;https://fortran-lang.org
+492;Neural network-based object detection of anatomical structures and medical artifacts in Virtual Reality;Shivaditya Shivganesh;LibreHealth;https://librehealth.io
+493;Contributing to Postman Public Workspace;Rishi Purwar;Postman;https://www.postman.com/
+494;Support for Contextual Query Language;Vishal Dalwadi;Polypheny;https://polypheny.org
+495;LabelLab: Improve Team Management and Collaborative Experience;Amlan Kumar Nandy;SCoRe Lab;http://www.scorelab.org/
+496;Out Of Office Settings with an Assigning Deputy - GSOC 2021 - Aditya Mitra;Aditya Mitra;Rocket.Chat;https://github.com/RocketChat/Rocket.Chat
+497;Containerisation of Apache Synapse ESB;Nuwan Jayawardene;The Apache Software Foundation;https://www.apache.org
+498;Scheduler for LibAFL;Dongjia Zhang;AFLplusplus;https://aflplus.plus
+499;Deep learning homology inference;Aidan Marshall;Genome Assembly and Annotation;http://www.ebi.ac.uk
+500;[NetworkX] Pedagogical Interactive Notebooks for Algorithms Implemented in NetworkX;Vadim Abzalov;NumFOCUS;http://numfocus.org/
+501;Coverage-guided mutation-based fuzzing for WebGPU;Emiljano Gjiriti;Android Graphics Tools Team;https://github.com/google/graphicsfuzz/blob/master/docs/summer-of-code-ideas/2021.md
+502;DNSTool Web Application;Sahan Randika;SCoRe Lab;http://www.scorelab.org/
+503;Efficient Spatial Simulations in DiffEqJump;Vasily Ilin;NumFOCUS;http://numfocus.org/
+504;Custom Font Typeface Support;Preet Vadaliya;MIT App Inventor;http://appinventor.mit.edu
+505;proposal for Enable Clang/LLVM Build for Microsoft Windows;yuqi (alyssa) chen;TianoCore;https://www.tianocore.org/
+506;Develop Performance Farm Benchmarks and Website;YoungHwan Joo;PostgreSQL;https://www.postgresql.org
+507;OpenForBC;Aneesh Chawla;CERN-HSF;http://hepsoftwarefoundation.org/activities/gsoc.html
+508;Crop Doc Terminal TPU;Ferran Delgado Garcia;Liquid Galaxy project;https://www.liquidgalaxy.eu/
+509;TensorFlow Lite examples for Natural Language Processing;Sunit Roy;TensorFlow;https://www.tensorflow.org/
+510;Calibrate SDR enhancement;Ayush Singh;AerospaceResearch.net;http://aerospaceresearch.net/
+511;Lambert W Distributions in Stan;Neel;NumFOCUS;http://numfocus.org/
+512;Sugarizer Measure activity;Sarthak_Gupta;Sugar Labs;http://sugarlabs.org/
+513;General Midi Mad Dash;Ishan Kumar Kaler;Purr Data;https://www.purrdata.net/
+514;WARP-V Many-Core in the Cloud;Vineet Jain;Free and Open Source Silicon Foundation;https://www.fossi-foundation.org
+515;Functional Enhancements to Fineract CN Mobile;Kinar Sharma;The Apache Software Foundation;https://www.apache.org
+516;Maxima Demo and Documentation Tool.;Aditya Wagh;INCF;http://incf.org
+517;Retraining models from ORES to be deployable on Lift Wing;Anubhav Sharma-1;Wikimedia Foundation;http://wikimediafoundation.org/
+518;Local DB support for SBGN maps in Newt;Pankaj Yadav;National Resource for Network Biology (NRNB);https://nrnb.org/gsoc.html
+519;SciUnit: integration with NetPyNE and other simulation environments;Evgeniia Karunus;INCF;http://incf.org
+520;Parameter Identifiability with ModelingToolkit.jl;Ilia Ilmer;NumFOCUS;http://numfocus.org/
+521;Building a Web Application Firewall that uses Machine Learning .;Shaik Ajmal R;OWASP Foundation;https://owasp.org
+522;Fixing ihaskell-widgets;David Davó;Haskell.org;http://haskell.org
+523;3Scale - Envoy proxy authorization cache;Rahul Anand;JBoss Community;http://www.jboss.org/
+524;Implement DepClean Gradle plugin and add support for multi-module project analysis;Abhay Singh;CASTOR;https://www.castor.kth.se/
+525;IBus Customize;Songlin Jiang;openSUSE Project;https://www.opensuse.org/
+526;SecureTea - Improvement in Features;Aman V. Singh;OWASP Foundation;https://owasp.org
+527;Relation Extraction;Anastasiia Sedova;DeepPavlov;https://deeppavlov.ai/
+528;Pocket Paint for Android: Hide the top and bottom bars, and make the drawing surface full screen by default;geolas;International Catrobat Association;https://www.catrobat.org
+529;"""Migrating to Scoped Storage"" By Farjad Ilyas, 2021";Farjad Ilyas;AnkiDroid;https://docs.ankidroid.org/
+530;Migrating Hooks, Tests & APIs;Arpit Bhalla;React Native Elements;https://reactnativeelements.com/
+531;Implement Escape Analysis in Julia Compiler;Xuanda Yang;The Julia Language;https://julialang.org
+532;Implement Small Groups;Alexis Newton;SageMath;https://www.sagemath.org/
+533;Improving Zulip’s terminal interface.;Zeeshan Equbal;Zulip;https://zulip.com
+534;Integrating Multitaper Periodogram into Stingray;Dhruv Vats;openastronomy;http://www.OpenAstronomy.org
+535;Develop GUI for ImageJ groovy script calling VCell API;NIKITA MAHOVIYA;National Resource for Network Biology (NRNB);https://nrnb.org/gsoc.html
+536;Frontend Inline editing;Rahul Saini;Joomla!;https://www.joomla.org/
+537;Improve the OpenCV Python package with type annotations and type checking;Duong Dac;OpenCV;https://opencv.org
+538;Machine Learning for Macro Diffusion Indexes;Rishi R;The R Project for Statistical Computing;https://www.r-project.org/
+539;Improve performance through the use of Pythran;Xingyu Liu;Python Software Foundation;https://www.python.org/
+540;Designing hashing techniques to compare large scale, out of core machine learning datasets;Rahul Babu Shrestha;Python Software Foundation;https://www.python.org/
+541;Add synthetics and symbol information for semanticdb in Scala 3;Rikito Taniguchi;Scala Center;http://scala.epfl.ch
+542;Design Challenge;Somil Jain;Cuneiform Digital Library Initiative (CDLI);https://cdli.ucla.edu
+543;DBpedia Spotlight Dashboard: an integrated statistical information tool from the Wikipedia dumps and the DBpedia Extraction Framework artifacts;José Manuel Díaz Urraco;DBpedia;https://www.dbpedia.org/
+544;Tracker-miners: File creation time;Nishit Patel;GNOME Foundation;https://gnome.org
+545;Implementing multiple clustering algorithms and dimensionality reduction techniques on clusterMaker2;Maija Utriainen;National Resource for Network Biology (NRNB);https://nrnb.org/gsoc.html
+546;Develop a UserScript/Gadget tutorial on MediaWiki.org similar to Wikipedia:The_Wikipedia_Adventure;Devyansh Chawla;Wikimedia Foundation;http://wikimediafoundation.org/
+547;Sounds similar for me: Using open embeddings to improve sampling on orcAL Tool;Jose Giraldo;Orcasound;http://orcasound.net
+548;DFFML : Enhancing User Experience with Notebook Examples for Machine Learning Use Cases.;Ch. M. Hashim;Python Software Foundation;https://www.python.org/
+549;Newman Dashboard;Manan Sharma-1;Postman;https://www.postman.com/
+550;Add a new channel type;Jean Staquet;Rocket.Chat;https://github.com/RocketChat/Rocket.Chat
+551;Particle Swarm Optimization for Hyperparameter Tuning in MLJ;Huu Long Nguyen;The Julia Language;https://julialang.org
+552;Validate and Generate multiple representations of Specifications;Nirmal Praveen Suthar;SPDX;https://spdx.dev/
+553;MISSION SUPPORT SYSTEM (MSS) : GENERATING A TOOL CHAIN TUTORIAL FOR THE MSUI USER INTERFACE BY AUTOMATION OPERATIONS;Hrithik Kumar Verma;Python Software Foundation;https://www.python.org/
+554;Develop a web based monitoring dashboard to improve and monitor existing database backup inventory processes and improve long term maintainability of existing code;Hari Krishna;Wikimedia Foundation;http://wikimediafoundation.org/
+555;Pure Rust serverless htsget implementation;Daniel del Castillo;Global Alliance for Genomics and Health;https://ga4gh.org
+556;CalibrateSDR;Jayaraj;AerospaceResearch.net;http://aerospaceresearch.net/
+557;A Python - Scala integrated environment with Almond, Ammonite and ScalaPy;Trung Kien Dang;Scala Center;http://scala.epfl.ch
+558;Compatibility for Touch Devices;Abhishek Zade;CircuitVerse.org;https://circuitverse.org/
+559;Classroom and Doubt forum feature in Mobile Application.;Adarsh Kumar Singh;JBoss Community;http://www.jboss.org/
+560;DIAL ODK-X New Date Prompts For ODK-X Survey Proposal;Chukwuemeka Okechukwu;Digital Impact Alliance (DIAL) at UN Foundation;https://www.digitalimpactalliance.org/
+561;Source Separation and Extensible MIR Tools for Audacity;Hugo Flores Garcia;Audacity;https://www.audacityteam.org/
+562;Smart Tempo in MuseScore 4;Sidharth Anand;MuseScore;http://musescore.org/
+563;Channels Discovery;Adithya Vardhan;Rocket.Chat;https://github.com/RocketChat/Rocket.Chat
+564;Writing of RBS Files;Sushanth Rao;Ruby;https://www.ruby-lang.org/
+565;SCoRe Lab's Gitter ChatBot;Mayank Meena;SCoRe Lab;http://www.scorelab.org/
+566;End-to-End Testing Support;Farees Hussain;Oppia Foundation;https://github.com/oppia/oppia
+567;Create p5 Music examples - interactive and generative;Stuti Mohgaonkar;Processing Foundation;http://processingfoundation.org
+568;Equivariant Neural Networks for Dark Matter Morphology with Strong Gravitational Lensing;Apoorva Vikram Singh;Machine Learning for Science (ML4SCI) Umbrella Organization;http://ml4sci.org
+569;Electronics Monitor Board (EMB);Albert Font;Liquid Galaxy project;https://www.liquidgalaxy.eu/
+570;Creation of a multi user audio first annotation tool;Ioannis Sina;GFOSS - Open Technology Alliance;http://www.gfoss.eu
+571;T1220 AXIOM Beta nMigen Support;tpw_rules;apertus° Association;https://www.apertus.org
+572;UX Enhancements;Apurv Gupta;The Apache Software Foundation;https://www.apache.org
+573;Machine Learning Model for the Albedo of Mercury;Georgios Pipilis;Machine Learning for Science (ML4SCI) Umbrella Organization;http://ml4sci.org
+574;Visualizing the Performance Characteristics of Computations (Dask);Freyam Mehta;NumFOCUS;http://numfocus.org/
+575;autocomplete and related feature;xing-zhi jiang;MariaDB Foundation;https://mariadb.org
+576;Make SVM format independent of the VCL Metafile + test of the format;Panos Korovesis;LibreOffice;https://www.libreoffice.org/
+577;General Improvements to User Experience in Javis;Arsh Sharma-1;The Julia Language;https://julialang.org
+578;Cross platform GUI for CCExtractor;Jayesh Nirve;CCExtractor Development;https://ccextractor.org/
+579;Add gdb pretty printer support for Qt5;Chukwuebuka Ezike;KDE Community;https://www.kde.org
+580;Add dynamic load module support for SOF;Liviu-Alexandru Bud;The Linux Foundation;http://www.linuxfoundation.org/
+581;Custom Picture Selector;Aditya Srivastav;Wikimedia Foundation;http://wikimediafoundation.org/
+582;Involutive Markov Chain Monte Carlo in Turing;Carol Mak;The Julia Language;https://julialang.org
+583;Agora Blockchain;Raj Ranjan;AOSSIE;https://aossie.gitlab.io/
+584;Talawa - Mobile App;rutvik chandla;The Palisadoes Foundation;http://www.palisadoes.org/
+585;bugRzilla: Helping submitting issues to R;Piyush_Kumar;The R Project for Statistical Computing;https://www.r-project.org/
+586;Quantum Convolutional Neural Networks for High-Energy Physics Analysis at the LHC;Eraraya Ricardo Muten;Machine Learning for Science (ML4SCI) Umbrella Organization;http://ml4sci.org
+587;Population-specific tractography bundle atlas creation;David Romero Bascones;INCF;http://incf.org
+588;New GUI widgets in Ignition Gazebo;Atharva Pusalkar;Open Robotics;https://www.openrobotics.org/
+589;Example Zoo;David Port Louis;mlpack;https://www.mlpack.org/
+590;Graph Neural Networks for Particle Momentum Estimation in the CMS Trigger System;Emre Kurtoglu;Machine Learning for Science (ML4SCI) Umbrella Organization;http://ml4sci.org
+591;Groundwork for platform independent app;Khyati;52°North GmbH;https://52north.org/
+592;Improvement of a Social Navigation component;Aditya Kapoor;RoboComp;https://robocomp.org
+593;Improve inter-procedural analyses and optimizations;Kuter Dinel;The LLVM Compiler Infrastructure;http://llvm.org
+594;Matrix Exponentials;Prasanth Duvvuri;Chapel;https://chapel-lang.org/
+595;TiKV: High-performance Data Import Tool;Bingchang Chen;CNCF;http://cncf.io
+596;Translate ERDDAP User Interface Into Different Languages;Qi Zeng;Integrated Ocean Observing System (IOOS);https://ioos.noaa.gov/
+597;hashesdb;Georgios Kosmas;GFOSS - Open Technology Alliance;http://www.gfoss.eu
+598;[PyMC3] Make SMC-ABC faster and more flexible;ricardoV94;NumFOCUS;http://numfocus.org/
+599;Enhance verification for APISIX ingress controller;Huaxi Jiang;The Apache Software Foundation;https://www.apache.org
+600;Migrating industrial robot manipulation exercises to web server;Chandan;JdeRobot - Universidad Rey Juan Carlos;https://jderobot.github.io/
+601;Improvements to Godot Soft-body Dynamics;Jeffrey Cochran;Godot Engine;https://godotengine.org
+602;E2E Automated Tests for the OpenMRS 3.0 RefApp;Jayasanka Weerasinghe;OpenMRS;https://openmrs.org
+603;Modernizing Administrative functions for OpenMRS: Clinical Data Management;Vineet Sharma;OpenMRS;https://openmrs.org
+604;OpenMRS Android Client 3.0.x;Saurabh;OpenMRS;https://openmrs.org
+605;A Full-featured Web Dashboard  for Optuna to Monitor Optimization History;Huzi Cheng;NumFOCUS;http://numfocus.org/
+606;CNCF - CNB - Jenkins Plugins;Fatih ATES;CNCF;http://cncf.io
+607;TCG Plugin: Cache Modelling;Mahmoud Mandour;QEMU;https://qemu.org/
+608;Liquid Galaxy Retro Gaming;Leonardo Coelho Ruas;Liquid Galaxy project;https://www.liquidgalaxy.eu/
+609;Improve stream management, message viewing and left sidebar;Purushottam Tiwari;Zulip;https://zulip.com
+610;CiceroMark<->OOXML;Kushal Kumar;Accord Project;https://www.accordproject.org/
+611;Improving Front-End Typed System;Mridul;Oppia Foundation;https://github.com/oppia/oppia
+612;3D Viewer Integration;Mustafa Dhar;Cuneiform Digital Library Initiative (CDLI);https://cdli.ucla.edu
+613;Flutter Desktop Tool;Abdullah Deshmukh;Dart;https://dart.dev/
+614;Automate Reinforcement Process of Slab and Footing in FreeCAD;Shiv Charan Sharma;BRL-CAD;https://opencax.github.io
+615;Add pseudo-localization to better spot untranslated strings and unexpected layout changes caused by long strings;Angad Kambli;Godot Engine;https://godotengine.org
+616;Cloning and compatibility improvements for Snare;krishna11;The Honeynet Project;https://honeynet.org
+617;Jenkins Remoting Monitoring;Akihiro Kiuchi;Continuous Delivery Foundation;https://cd.foundation/projects/
+618;Extending the AiiDA REST API towards workflow management;Ninad Bhat;NumFOCUS;http://numfocus.org/
+619;What You See Is What You Rest Security;Elias Little;The Julia Language;https://julialang.org
+620;Extend Ruma's API coverage;Adam Blanchet;Matrix.org;https://matrix.org/
+621;Music Blocks Graphics Management;Chandan Prakash;Sugar Labs;http://sugarlabs.org/
+622;Adding Integro Differential Equations and Improving symbolic representation of geometry in PINNs;Ashutosh Bharambe;NumFOCUS;http://numfocus.org/
+623;Critical efficiency improvements of mcmcse;Kushagra Gupta 99;The R Project for Statistical Computing;https://www.r-project.org/
+624;Boost.Gil : 2D convolution and correlation;Prathamesh Tagore;Boost C++ Libraries;https://www.boost.org/
+625;Implementing an application for visualizing the LHCb DAQ network;Anurag Akella;CERN-HSF;http://hepsoftwarefoundation.org/activities/gsoc.html
+626;Automatically generate docs from the components;Khushal Agarwal;React Native Elements;https://reactnativeelements.com/
+627;Cargo tool for Rust-GCC;Arthur Cohen;GNU Compiler Collection (GCC);https://gcc.gnu.org/
+628;IntelOwl Improvements;Sarthak Khattar;The Honeynet Project;https://honeynet.org
+629;SimpleCMS E.S.;Goutam Verma;Liquid Galaxy project;https://www.liquidgalaxy.eu/
+630;Add a CDS-ASCII writer to astropy;Suyog Garg;openastronomy;http://www.OpenAstronomy.org
+631;Push the URL relationship editor to the next level;Yang Yang;MetaBrainz Foundation Inc;https://metabrainz.org
+632;Bela support for the BeagleBone AI and/or future TI boards;Dhruva Gole;BeagleBoard.org Foundation;https://beagleboard.org
+633;GSOC proposal for Nettacker;Divyansh Jain;OWASP Foundation;https://owasp.org
+634;Spectral Selection Tools;Edward HUI;Audacity;https://www.audacityteam.org/
+635;Proposal for Apache SkyWalking: Python agent supports profiling;Ke Zhang;The Apache Software Foundation;https://www.apache.org
+636;C++ connector enhancement;Anastasiy Belyaev;Tarantool;http://tarantool.io
+637;Added new features to  LibVLCSharp and fixed bugs;Kodjo Laurent Egbakou;VideoLAN;https://www.videolan.org/
+638;Migration of UI into React.js;Shruti Agarwal;FOSSology;https://www.fossology.org/
+639;Implementing Work Stealing on Nemo;Hwarim Hyun;The Apache Software Foundation;https://www.apache.org
+640;Improvisation and Implementation of ANN Modules;Abhinav Anand;mlpack;https://www.mlpack.org/
+641;Machine detection of film edits;Shreyan Ganguly;Red Hen Lab;http://redhenlab.org
+642;Fractal: Multi account support;Alejandro Domínguez;GNOME Foundation;https://gnome.org
+643;Java Loader using Java Native Interface;ketangupta34;MetaCall;https://github.com/metacall
+644;SPDX license detection package;BHARAT BIRADAR;Dart;https://dart.dev/
+645;RBAC Authorization with Cache Implementation using higher order functions;Yash Kumar Verma;caMicroscope;http://camicroscope.github.io
+646;Development of a user interface to visualise VEP data using neXtProt tools;Shrey Sachdeva;Open Bioinformatics Foundation;http://open-bio.org
+647;End-to-End Deep Learning Reconstruction for CMS Experiment;Purva Chaudhari;Machine Learning for Science (ML4SCI) Umbrella Organization;http://ml4sci.org
+648;Update DBpedia Sparql for newly updated wiki resources and specifically related to pandemic, healthcare, and heath AI fields;Guang Zhang;DBpedia;https://www.dbpedia.org/
+649;Implement active resource management in GNOME;Nishal Kulkarni;GNOME Foundation;https://gnome.org
+650;Extending Deepbots to evolutionary algortihms;Vedant Shah;GFOSS - Open Technology Alliance;http://www.gfoss.eu
+651;gtfBase- A curated resource of multispecies genomic regions;Tanishq Gupta;Open Bioinformatics Foundation;http://open-bio.org
+652;Image Sensor Simulation/Emulation;SeifEldeen Emad;apertus° Association;https://www.apertus.org
+653;TensorFlow Proposal for the Convert Matlab ML examples to Python / JAX project;Gerardo Duran-Martin;TensorFlow;https://www.tensorflow.org/
+654;GPGPU with GLES API;Jakub Duchniewicz;BeagleBoard.org Foundation;https://beagleboard.org
+655;Integrate MJML / GrapeJS Newsletters;Utpalendu Barman;CiviCRM LLC;https://civicrm.org
+656;Reforestation Assistant & Simulator;Karine Pistili;Liquid Galaxy project;https://www.liquidgalaxy.eu/
+657;Integrating the Oppia blog with Oppia.org;Rijuta Singh;Oppia Foundation;https://github.com/oppia/oppia
+658;glTF virtual environment loading;sin3point14;xrdesktop;https://gitlab.freedesktop.org/xrdesktop/xrdesktop/-/wikis/home
+659;OpenMRS GSOC-21 Proposal;Parth Kanakiya;OpenMRS;https://openmrs.org
+660;Integrating Enzyme into Rust;Manuel Drehwald;The LLVM Compiler Infrastructure;http://llvm.org
+661;Implement reusable GA4GH UI clients;Anurag Gupta;Global Alliance for Genomics and Health;https://ga4gh.org
+662;RGW:S3 SDK Compatibility;Saptarshi Majumder;Ceph;https://ceph.io
+663;FastFingers Application Development;Ali Eren Yogurtcu;CCExtractor Development;https://ccextractor.org/
+664;Improve User Experience in Zulip Terminal;Sarthak Garg-1;Zulip;https://zulip.com
+665;Complete AMD virtualization emulation;Lara Lazier;QEMU;https://qemu.org/
+666;Add support for in-browser interactive averaging of physics results;Harsh Prakash Gupta;CERN-HSF;http://hepsoftwarefoundation.org/activities/gsoc.html
+667;Continued Development on Adaptive Cloth Simulator for Blender;Ish Bosamiya;Blender Foundation;http://www.blender.org
+668;Support for Extended Operations in FHIR;Medhavi Srivastava;OpenMRS;https://openmrs.org
+669;R Community Explorer - Exploration of the R community on Twitter;João Vitor F. Cavalcante;The R Project for Statistical Computing;https://www.r-project.org/
+670;Search functionality for bricks in Pocket Code;Oskar Walcher;International Catrobat Association;https://www.catrobat.org
+671;Shaka Player - User Interface;Nicolas;Shaka Player;https://opensource.google/projects/shaka-player
+672;IPv6 Nix-Vector Routing;Ameya Deshpande;The ns-3 Network Simulator Project;http://www.nsnam.org
+673;Improving Accessibility for the Visually Impaired;Arjun Taneja;MuseScore;http://musescore.org/
+674;Implementing integration tests using Gherkin language;ArunagirinadanSudharshan;Ceph;https://ceph.io
+675;Create a Red Hen OpenDataset for gestures with performance baselines;Swadesh Jana;Red Hen Lab;http://redhenlab.org
+676;Decentralized storage of versioned BIDS datasets with IPFS, datalad and Ceramic;kinshuk;INCF;http://incf.org
+677;Microsoft Word Integration;Mohit;JabRef e.V.;https://www.jabref.org/
+678;LFortran and Computational Chemistry;Rohit Goswami;Fortran-lang;https://fortran-lang.org
+679;Curve Improvements;Dilith Jayakody;Blender Foundation;http://www.blender.org
+680;DFFML : Add data cleanup dataflow operations and sklearn accuracy scorers;Sudhanshu Kumar P;Python Software Foundation;https://www.python.org/
+681;TensorCore Extension for Deep Learning;Nitin Mishra;Free and Open Source Silicon Foundation;https://www.fossi-foundation.org
+682;Add zoom and pan to the Wikisource Pagelist Widget;Yash Agrawal;Wikimedia Foundation;http://wikimediafoundation.org/
+683;Copyright False Positive Detection Using ML;Kaushlendra Pratap Singh;FOSSology;https://www.fossology.org/
+684;Lua scripted watchpoints in LLDB;Shichu Yang;LabLua;http://www.lua.inf.puc-rio.br
+685;Fineract Client;Danish Jamal;The Apache Software Foundation;https://www.apache.org
+686;Accelerate OpenCV.js DNN via WebNN;Hanxi Guo;OpenCV;https://opencv.org
+687;Fractal NEXT;Kai A. Hiller;GNOME Foundation;https://gnome.org
+688;Refactor the ODE module and make it fast;Mohit Balwani;SymPy;http://sympy.org
+689;Improve Test Coverage in p5.Sound library;Sai Bhushan;Processing Foundation;http://processingfoundation.org
+690;React diagram component library for creating pedigree drawings tools;Kamil Albrycht;Global Alliance for Genomics and Health;https://ga4gh.org
+691;OpenWrt Device Page;Aditi-Singh;freifunk;https://freifunk.net
+692;Various SQL VM improvements: threaded interpretation and instruction merging;Anastasia Neklepaeva;Tarantool;http://tarantool.io
+693;IntelOwl Connectors Manager and Integrations;Shubham Pandey (sp35);The Honeynet Project;https://honeynet.org
+694;Macromedia Director;Crane yang;ScummVM;https://www.scummvm.org/
+695;Speeding up string operations of Mypyc;Jingchen YE;mypy;http://mypy-lang.org/
+696;Add support for functor objects in clad;parth-07;CERN-HSF;http://hepsoftwarefoundation.org/activities/gsoc.html
+697;Integrate an optical microscope with a camera and motorized stage - Collaboration with FDA;Peddi Sai Varshith;caMicroscope;http://camicroscope.github.io
+698;Turn All References Blue;Xin Yue Chen;Internet Archive;http://archive.org
+699;Pin Tracks & Review Tracks Through CritiqueBrainz;jasondk;MetaBrainz Foundation Inc;https://metabrainz.org
+700;LLVM Back-end for the Tensor Algebra Compiler (TACO);Roberto Rosmaninho;Python Software Foundation;https://www.python.org/
+701;Terminal Driver Improvements;Pokemod97;TianoCore;https://www.tianocore.org/
+702;Use JSON as on-disk format for Histograms;michaeokoko;MariaDB Foundation;https://mariadb.org
+703;R Conference Events Explorer;Meet Bhatnagar;The R Project for Statistical Computing;https://www.r-project.org/
+704;Port digiKam to Qt6 on Linux;Anjani Kumar;KDE Community;https://www.kde.org
+705;Improving statistics from kw;Magali Lemes;The Linux Foundation;http://www.linuxfoundation.org/
+706;Query the Blockchain;Shubham_Arawkar;Polypheny;https://polypheny.org
+707;Conventional Commits Plugin for Jenkins;Aditya Srivastava;Continuous Delivery Foundation;https://cd.foundation/projects/
+708;Move custom JS\TS lint checks to eslint;Aditya-Dubey;Oppia Foundation;https://github.com/oppia/oppia
+709;Automatic Lineshape Engine;Anand Kumar;openastronomy;http://www.OpenAstronomy.org
+710;Make All Filter Functions Work Well Even Without PPD Files;suraj kulriya;The Linux Foundation;http://www.linuxfoundation.org/
+711;Code Formatting and Style Check for RTEMS SuperCore (score);Meh Mbeh Ida Delphine;RTEMS Project;https://www.rtems.org/
+712;High dimensional geometric computations with least matrix inequalities;Alexandros Manochis;GeomScale;https://geomscale.github.io/
+713;Social Knowledge Graph: Employing SNA measures to Knowledge Graph;Zhipeng Zhao;DBpedia;https://www.dbpedia.org/
+714;Working on the various high-priority issues to improve Zulip.;Riken Shah;Zulip;https://zulip.com
+715;Develop a Cytoscape App for the Casual Path Algorithm;Pritam Saha;National Resource for Network Biology (NRNB);https://nrnb.org/gsoc.html
+716;Migrate Web Presence to new Module Site;Yash Patel;The Terasology Foundation;https://terasology.org/
+717;Expose all active configurations and CLI improvements.;Gaurav Genani;Cilium;https://cilium.io
+718;Flood Mobile App;Pratik Baid;CCExtractor Development;https://ccextractor.org/
+719;Coding style checker bot for Gerrit;Hrithik Kumar;Haiku;http://www.haiku-os.org
+720;Webots integration;Kacper Kujawski;RoboComp;https://robocomp.org
+721;Improving User Experience Of Frontend and Enabling User Personalisation;Harsh Mishra;AOSSIE;https://aossie.gitlab.io/
+722;New protocols for exascale data management with Rucio;Rakshita Varadarajan;CERN-HSF;http://hepsoftwarefoundation.org/activities/gsoc.html
+723;Converting ML Matlab Examples to Python using JAX;Srikar Reddy Jilugu;TensorFlow;https://www.tensorflow.org/
+724;Times Series Classification of EEG Data with Sktime;Svea Marie Meyer;INCF;http://incf.org
+725;Finish the new web interface;Priyanshu Jain;Kodi;https://kodi.tv/
+726;Implementing GPU Accelerated Sub-gridding;ThenoobMario;gprMax;http://www.gprmax.com
+727;Interactive Graphics for ChemoSpec;Tejasvi Gupta;The R Project for Statistical Computing;https://www.r-project.org/
+728;Sidebar Task;Anshu Khare;LibreOffice;https://www.libreoffice.org/
+729;Refactor Multi-Task BERT;Anshuman Singh;DeepPavlov;https://deeppavlov.ai/
+730;TensorFlow Lite Flutter Support Suite Enhancements;Amish Garg;TensorFlow;https://www.tensorflow.org/
+731;A Django Platform for comparing scientific methods for analyzing neural time series analysis methods;Diptanshu Mittal;INCF;http://incf.org
+732;Refactor Casbin.js and other optimizations on pycasbin and node-casbin;Xinyu Zhou;Casbin;https://casbin.org/
+733;Fast and Precise License Matching Library;mikit;SPDX;https://spdx.dev/
+734;Development of Jupyter Kernel for MetaCall Core;Harsh Bardhan Mishra;MetaCall;https://github.com/metacall
+735;Inference Code Generation for Recurrent Neural Networks;Ahmat Hamdan;CERN-HSF;http://hepsoftwarefoundation.org/activities/gsoc.html
+736;Fix miscompilation issues in LLVM IR using the ‘Freeze’ instruction;Hyeongyu Kim;The LLVM Compiler Infrastructure;http://llvm.org
+737;ROS2-RADI and Multi-robot Amazon warehouse exercise in web-based template for ROS2;Siddharth Saha (trunc8);JdeRobot - Universidad Rey Juan Carlos;https://jderobot.github.io/
+738;Improving the p5.xr Library Through Artistic Examples;Anais Gonzalez;Processing Foundation;http://processingfoundation.org
+739;SKF support for interactive vulnerability fixing.;Diego Porras;OWASP Foundation;https://owasp.org
+740;TensorFlow2 Model Garden document site and YOLO project tutorial;Yifan Wang;TensorFlow;https://www.tensorflow.org/
+741;Improving OpenMP code generation with prediction of runtime parameters;Konstantin Sidorov;The LLVM Compiler Infrastructure;http://llvm.org
+742;Integrate library UNU.RAN into scipy.stats;Tirth Patel;Python Software Foundation;https://www.python.org/
+743;Functional Enhancements To Fineract CN Mobile Application;Varun Jain;The Apache Software Foundation;https://www.apache.org
+744;Automate Metrics Release and Process Improvement;Yash Prakash;CHAOSS Project;https://chaoss.community
+745;Binary Segmentation Package;Diego E. Jiménez Urgell;The R Project for Statistical Computing;https://www.r-project.org/
+746;Exercise using Deep Learning for Visual Detection;Shashwat Dalakoti;JdeRobot - Universidad Rey Juan Carlos;https://jderobot.github.io/
+747;Modular DBpedia Chatbot;Jayesh Desai;DBpedia;https://www.dbpedia.org/
+748;Linked List in stdlib of Fortran-lang;Chetan Karwa;Fortran-lang;https://fortran-lang.org
+749;Smart Pens;Rohan Mallick;caMicroscope;http://camicroscope.github.io
+750;Machine Learning Guided Ordering of Compiler Optimization Passes;Tarindu Jayatilaka;The LLVM Compiler Infrastructure;http://llvm.org
+751;DBpedia Live Neural Question Answering Chatbot - GSoC2021;Ashutosh Kumar-1;DBpedia;https://www.dbpedia.org/
+752;[Eos-icons] - Enhancing the backend and introducing new features;Fawzi E. Abdulfattah;Python Software Foundation;https://www.python.org/
+753;Feature Implemetation and Ui Development of Android FHIR;Anushka Chakraborty;Google FHIR SDK;https://github.com/google/android-fhir
+754;GeomScale: Monte Carlo Integration;Suraj Choubey;GeomScale;https://geomscale.github.io/
+755;TidalCycles API and editor plugin;Martin Gius;Haskell.org;http://haskell.org
+756;Interactive Book Integration for Mobile App;Manjot Sidhu;CircuitVerse.org;https://circuitverse.org/
+757;Improving Test Coverage and Implementing CI/CD in BrainBox;Aditya R Rudra;INCF;http://incf.org
+758;Implementing an Unsteady Vortex-Lattice aerodynamic element;Shubhaditya Burela;MBDyn;http://www.mbdyn.org
+759;Improve and maintain 15 Sugar activities;Sourabha G;Sugar Labs;http://sugarlabs.org/
+760;Improved Integration of GRASS GIS and Jupyter Notebooks;CaitlinHaedrich;OSGeo - Open Source Geospatial Foundation;https://www.osgeo.org/
+761;Matplotlib: Revisiting Text/Font Handling;Aitik Gupta;NumFOCUS;http://numfocus.org/
+762;matrixStats: Consistent Support for Names Attributes;Angelina Panagopoulou;The R Project for Statistical Computing;https://www.r-project.org/
+763;Deep autoencoders for ATLAS data compression;George Dialektakis;CERN-HSF;http://hepsoftwarefoundation.org/activities/gsoc.html
+764;RcppSMC - support for modern Monte Carlo methods;Ilya Zarubin;The R Project for Statistical Computing;https://www.r-project.org/
+765;Tools for visualization and efficient editing;Marc P. Masó;Open Chemistry;https://openchemistry.org/
+766;Machine Learning for Turbulent Fluid Dynamics;Amey Varhade;Machine Learning for Science (ML4SCI) Umbrella Organization;http://ml4sci.org
+767;Improving Post-Exploitation API;Gaurav Purswani;Metasploit;https://metasploit.com/
+768;Create web components for FHIR Resources;Shashwat;LibreHealth;https://librehealth.io
+769;DeepbotsZero;Nikolaos Kokkinis;GFOSS - Open Technology Alliance;http://www.gfoss.eu
+770;Boost.Real: Optimizing internal representation of operation and improving math functions;Divyam Singal;Boost C++ Libraries;https://www.boost.org/
+771;Improve pgeu-system for Conference Management;Saurav Shrivastav;PostgreSQL;https://www.postgresql.org
+772;IIO Driver: AD511X DigiPOT;Mugilraj D;The Linux Foundation;http://www.linuxfoundation.org/
+773;Enhanced alerting and scheduling in Bench-routes;Tushar Guha Neogi;Bench-Routes;https://bench-routes.netlify.com
+774;Haskell Language Server: Symbol Renaming;Oliver Madine;Haskell.org;http://haskell.org
+775;Tensorflow Proposal;Aleyna Kara;TensorFlow;https://www.tensorflow.org/
+776;Add support for OAuth2 Login (i.e. OpenID Connect) authentication to factotum;Dimitrios Iatrakis;Plan 9 Foundation;http://p9f.org/
+777;Nominatim QA Analyser;Antonin Jolivat;OpenStreetMap;http://www.openstreetmap.org/
+778;Rewrite 708 decoder in Rust;Punit Lodha;CCExtractor Development;https://ccextractor.org/
+779;Reporting Ceph issues from the Ceph-Dashboard;SS;Ceph;https://ceph.io
+780;Refactoring of hyperSpec R Package;Sang Truong;The R Project for Statistical Computing;https://www.r-project.org/
+781;A Testing Framework for Niffler DICOM frameworks for Continuous Integration;Chinmay Vibhute;Department of Biomedical Informatics (BMI), Emory University School of Medicine;https://med.emory.edu/departments/biomedical-informatics/
+782;PyQuotient;Vladyslav Hnatiuk;Matrix.org;https://matrix.org/
+783;Create a single universal CUPS filter to replace the chain of individual filters;Pranshu Kharkwal;The Linux Foundation;http://www.linuxfoundation.org/
+784;New Version Refactoring;Kaustubh Chaudhari;NumFOCUS;http://numfocus.org/
+785;Tutorial for Universal Intrinsics and parallel_for_ for efficient cross-platform algorithm implementation;Rohit Sutradhar;OpenCV;https://opencv.org
+786;Kotlin Refactoring and MVVM Implementation;Khushal Uttam;International Catrobat Association;https://www.catrobat.org
+787;CCSDS File Delivery Protocol in MicroPython;Shayan Majumder;LibreCube Initiative;https://librecube.org/
+788;Improving the Raspberry Pi BSP;pruhnuhv;RTEMS Project;https://www.rtems.org/
+789;3scale - Envoy proxy authorization cache;Lahiru Udayanga De Silva;JBoss Community;http://www.jboss.org/
+790;Development of an FDIR algorithm using Neural networks;Rafael Badell;AerospaceResearch.net;http://aerospaceresearch.net/
+791;KStars DSO Overhaul;Valentin Boettcher;KDE Community;https://www.kde.org
+792;Rational Solutions of Riccati ODEs;Naveen Sai;SymPy;http://sympy.org
+793;Open Book Genome Project;Nolan Windham;Internet Archive;http://archive.org
+794;Diversity transformation class space and implement Coverage-guided mutation-based fuzzing for WebGPU;Shiyu Liu;Android Graphics Tools Team;https://github.com/google/graphicsfuzz/blob/master/docs/summer-of-code-ideas/2021.md
+795;Improving Turing’s documentation and tutorials;leachim;The Julia Language;https://julialang.org
+796;Interactive, asynchronous QEMU Machine Protocol (QMP) text user interface (TUI);Niteesh Babu G S;QEMU;https://qemu.org/
+797;Extend Data Pipelines to cover more data products;Egor Zverev;MapAction;https://mapaction.org/about-us/
+798;GSoC 2021 Proposal Productionizing bddashboard;Rahul Saxena;The R Project for Statistical Computing;https://www.r-project.org/
+799;A Privacy-Respecting Email Service for Personal Servers;Flynn;Debian;https://www.debian.org
+800;TVB for Jupyter and Collaboratory;Ishan Vatsaraj;INCF;http://incf.org
+801;try.spinnaker.io;Daniel Ko;Continuous Delivery Foundation;https://cd.foundation/projects/
+802;Pure Rust Htsget Implementation;Marko Malenic;Global Alliance for Genomics and Health;https://ga4gh.org
+803;digiKam Image Quality Sorter algorithms improvement;Phuoc-Khanh LE;KDE Community;https://www.kde.org
+804;Modelling complex materials electromagnetic properties in gprMax software;Sylwia Majchrowska;gprMax;http://www.gprmax.com
+805;CovCT: Development of an AI-based Android Application for distinguishing COVID-19 and Pneumonia using Computed Tomography Images and generate reports for analysis;Aryan Verma;Department of Biomedical Informatics (BMI), Emory University School of Medicine;https://med.emory.edu/departments/biomedical-informatics/
+806;Adopt an unreleased language pair, Hindi-Bhojpuri;Anuradha Pandey;Apertium;http://wiki.apertium.org
+807;Continuum Mechanics: Creating a Rich Beam Solver and Extending Continuum Mechanics Module;Prakhar Saxena;SymPy;http://sympy.org
+808;S-ChainX: Product Hunter;Esandha Vithanage;SCoRe Lab;http://www.scorelab.org/
+809;KMyMoney : Integration of the new functionalities from the Alkimia library;Suraj Kumar Mahto;KDE Community;https://www.kde.org
+810;Awesome Demo Game Project : King Of Batona;Aman Gupta;International Catrobat Association;https://www.catrobat.org
+811;Automatic Qualia Extraction and Annotation Tools;Aleksey Dorkin;FrameNet Brasil (UFJF);http://www.ufjf.br/framenetbr-eng/
+812;Colour-Science for python;Cédric Dollet;NumFOCUS;http://numfocus.org/
+813;Brokering Continuous Delivery through the ELIXIR Cloud service registry;Akash Saini;Global Alliance for Genomics and Health;https://ga4gh.org
+814;PyBaMM - Printing Formatted Equations;Priyanshu_Agarwal;NumFOCUS;http://numfocus.org/
+815;Github Actions Workflows for Scheduled Algorithm Deployment;Dmitry Volodin;Orcasound;http://orcasound.net
+816;Dimensionality Reduction for Studying Diffuse Circumgalactic Medium;Jakub Rybak;Machine Learning for Science (ML4SCI) Umbrella Organization;http://ml4sci.org
+817;Real Time Collaborative Pathology;Vedant Nandoskar;caMicroscope;http://camicroscope.github.io
+818;Newman Request;Raghav Bhatia;Postman;https://www.postman.com/
+819;TypeScript Migration;Priyank Patel;Zulip;https://zulip.com
+820;Analyzing stimulus prediction capabilities of neurons: predictive information estimation methods;Shiven Tripathi;INCF;http://incf.org
+821;Custom Abundance Widget;Yizheng Yu;TARDIS SN;https://tardis-sn.github.io/tardis/
+822;Benchmarking, Python bindings and Migrating to CTest for Casbin-CPP;Yash Pandey;Casbin;https://casbin.org/
+823;First steps towards a new GRASS GIS Single-Window GUI;Linda Kladivova;OSGeo - Open Source Geospatial Foundation;https://www.osgeo.org/
+824;Develop a Golang-based framework to enhance Knative’s functionalities;Namit Chandwani;JBoss Community;http://www.jboss.org/
+825;Simplified external port forwarding and automatic NAT traversal;giulio;Qubes OS;https://www.qubes-os.org
+826;Boost:uBlas : Finalizing and improving the subtensor type;Kannav Krishan Mehta;Boost C++ Libraries;https://www.boost.org/
+827;Enhancing the Plotting Functionality in MCnet/Rivet;Simon Thor;CERN-HSF;http://hepsoftwarefoundation.org/activities/gsoc.html
+828;Non-blocking multi-thread IO_CACHE;Vladislav Kakurin;MariaDB Foundation;https://mariadb.org
+829;Making pvlib python a one-stop source for solar resource data;Adam R. Jensen;NumFOCUS;http://numfocus.org/
+830;sch-webapps: aggregator for web-based educational material;Artemis Georgopoulou;GFOSS - Open Technology Alliance;http://www.gfoss.eu
+831;ImageLab - extend the functionality;Sahan Dissanayaka;SCoRe Lab;http://www.scorelab.org/
+832;Nemo Optimization by WAN Hierarchical Aggregation and Fidelity Control;Ji Ho Kang;The Apache Software Foundation;https://www.apache.org
+833;New database search backend;Aldán Creo;Django Software Foundation;https://www.djangoproject.com/
+834;Upgrade WebdriverIO to the latest version 7 for all repositories;Sahil Grewal;Wikimedia Foundation;http://wikimediafoundation.org/
+835;Ready to use Models in mlpack;Aakash Kaushik;mlpack;https://www.mlpack.org/
+836;Improving Google Search Result On Buddhist Entities.;Paritosh Singh;Project WikiLoop;https://meta.wikimedia.org/wiki/WikiLoop
+837;Sugarizer Story Activity;Saurabh-Gupta;Sugar Labs;http://sugarlabs.org/
+838;Add IDS validation with BCF output to IfcOpenShell;Artur Tomczak;BRL-CAD;https://opencax.github.io
+839;Computer vision for detecting elements of a vehicle’s environment with RoboComp;Garv Tambi;RoboComp;https://robocomp.org
+840;Microfarm For Everybody;Prashant Dodiya;coala;https://coala.io
+841;mne-python intracranial electrode localization toolbox;alexrockhill;Python Software Foundation;https://www.python.org/
+842;Refining Code Critics;Alejandra Cossío Ch.;Pharo Consortium;https://pharo.org/
+843;Add support for error terms with explicit constants to AsymptoticRing;Thomas Hagelmayer;SageMath;https://www.sagemath.org/
+844;BibTeX Plugin Project;Abdallah Ahmed;Joplin;https://joplinapp.org/
+845;Cross-Slide Coordinated Viewing;Hemansh Khaneja;caMicroscope;http://camicroscope.github.io
+846;GSoC Proposal - Causal and counterfactual methods for fairness in machine learning;Archana Warrier;The Julia Language;https://julialang.org
+847;DataFrame;Balaji G;Pharo Consortium;https://pharo.org/
+848;Improving workflow with autocomplete feature;Gabriela Bittencourt;Purr Data;https://www.purrdata.net/
+849;Auto-Arrangement of Nodes in GraphEdit, VisualScript and VisualShaders;Umang Kalra;Godot Engine;https://godotengine.org
+850;Firmware and other file handling in PAPPL;Bhavna Kosta;The Linux Foundation;http://www.linuxfoundation.org/
+851;Application Proposal for Apache Clerezza;Yusuf Karadag;The Apache Software Foundation;https://www.apache.org
+852;Static analysis for unreachable functions;Wenzhang Yang;GNU Compiler Collection (GCC);https://gcc.gnu.org/
+853;User Centric Knowledge Engineering and Data Visualization;Karan Kharecha;DBpedia;https://www.dbpedia.org/
+854;Factor analysis based on higher-order moments;Guanglin Huang;The R Project for Statistical Computing;https://www.r-project.org/
+855;Inference Latency Estimator with Ensemble of Regression Models;Jiyeon Lee;MediaPipe;https://mediapipe.dev
+856;Detect Unknown Licenses and Indirect License references in ScanCode;Akanksha Garg;AboutCode;https://www.aboutcode.org
+857;Make backend code typed;Hardik Katehara;Oppia Foundation;https://github.com/oppia/oppia
+858;Interactive viewer for systems-biology variant interpretation (Server-side);Rishabh kohale;Open Genome Informatics;http://gmod.org/wiki/GSoC
+859;Extending Time-Series Models;Meenal Jhajharia;NumFOCUS;http://numfocus.org/
+860;Adding Panoptic Segmentation to the TensorFlow Model Garden;Srihari Humbarwadi;TensorFlow;https://www.tensorflow.org/
+861;Automatic Identification And Classification of Contract Data Types with NLP;EasonC13;Accord Project;https://www.accordproject.org/
+862;Re: Develop a test framework for checking FreeType's rendering output;Sarthak Bhardwaj-1;FreeType;https://www.freetype.org/
+863;Refactoring Testbench and Automated Testing;Ruturaj Mohite;CircuitVerse.org;https://circuitverse.org/
+864;Evolving bdchecks: a biodiversity data quality checks framework;Martynas Jočys;The R Project for Statistical Computing;https://www.r-project.org/
+865;Advanced search features for Software Heritage Archive;Kumar Shivendu;Software Heritage;https://www.softwareheritage.org
+866;Improving and Expanding Functionalities in Control Module;Akshansh Bhatt;SymPy;http://sympy.org
+867;Proposal by Juan Elias for OpenLex PyAr;Juan Elias Rodriguez;Python Software Foundation;https://www.python.org/
+868;Enhanced authentication for APISIX Dashboard;Zeping Bai;The Apache Software Foundation;https://www.apache.org
+869;Internationalization(i18n) and Deployment of P5.js Website;Sanjay Singh Rajpoot;Processing Foundation;http://processingfoundation.org
+870;Apache OODT - Improving OPSUI React.js UI with Advanced Functionalities;Pavindu Lakshan;The Apache Software Foundation;https://www.apache.org
+871;Improving User experience in enviroCar Android;Sai Karthikeya;52°North GmbH;https://52north.org/
+872;Blender - UV editor improvements;Siddhartha Jejurkar;Blender Foundation;http://www.blender.org
+873;pymc3.dp: Bayesian Stati-sticks for Summer 2021;Larry Dong;NumFOCUS;http://numfocus.org/
+874;Create Custom Styles in SDC Gallery;Fikri Yurcel Milano;Google FHIR SDK;https://github.com/google/android-fhir
+875;Pocket Paint for Android: Refactoring and Rewriting Production Code and Tests to Kotlin;Saarthak Seth;International Catrobat Association;https://www.catrobat.org
+876;Signing Template and Signing Contracts;Sanket Shevkar;Accord Project;https://www.accordproject.org/
+877;Activism Through Storytelling with Code;Niki Ito;Processing Foundation;http://processingfoundation.org
+878;Develop an Android application for newborn clinical decision support;BHAVESH SHARMA;LibreHealth;https://librehealth.io
+879;Automatic Realization of AI-Based Electromagnetic Models;Utsav Akhaury;gprMax;http://www.gprmax.com
+880;A fast finite element interpolator in Gridap.jl;Balaje;NumFOCUS;http://numfocus.org/
+881;The REST of Administration;Bartłomiej Rasztabiga;OpenMRS;https://openmrs.org
+882;VISIT THE WORLD HOME EDITION;Ainhoa Maestro;Liquid Galaxy project;https://www.liquidgalaxy.eu/
+883;Improve Exploration save flow: Syncing edits in the background;Aryaman Gupta;Oppia Foundation;https://github.com/oppia/oppia
+884;A Lua library for Freechains-P2P;Micah Kendall;LabLua;http://www.lua.inf.puc-rio.br
+885;Support call hierarchy in Haskell Language Server;Lei Zhu;Haskell.org;http://haskell.org
+886;Learning Bricks: A Novel Blocks Framework for Visual Programming Languages;Kumar Saurabh Raj;Sugar Labs;http://sugarlabs.org/
+887;Development of AnkiDroid project;Shridhar Goel;AnkiDroid;https://docs.ankidroid.org/
+888;Lua hook points;Donald Lee;FRRouting;https://frrouting.org/
+889;Awesome Demo Game Project - Sisters of the Faldroid;Shriyanshu Kukreti;International Catrobat Association;https://www.catrobat.org
+890;Matrix state of the art;GUIFO FODJO A Yvan;Pharo Consortium;https://pharo.org/
+891;Advanced Audio Filters;Metehan Arslan;VideoLAN;https://www.videolan.org/
+892;Add logging support to Simulation Execution Manager (SEM);Akshit Patel;The ns-3 Network Simulator Project;http://www.nsnam.org
+893;A morphological analyzer for Bagvalal;Daniil Ignatiev;Apertium;http://wiki.apertium.org
+894;Apache James - Implement Thread support for JMAP;Hồng Quân Trần;The Apache Software Foundation;https://www.apache.org
+895;Example Zoo;Roshan Swain;mlpack;https://www.mlpack.org/
+896;Enable CUDA builds on CI;Hang Yan;Point Cloud Library;https://pointclouds.org/
+897;Implementing Linux support in Drakvuf-Sandbox;Manorit Chawdhry;The Honeynet Project;https://honeynet.org
+898;Unipertium;Daniel Swanson;Apertium;http://wiki.apertium.org
+899;PEcAn in CRAN;Shashank-Singh;PEcAn Project;http://pecanproject.github.io/
+900;Improve pdf support in JabRef;Benedikt Tutzer;JabRef e.V.;https://www.jabref.org/
+901;Adding Alt Text;Katie Liu;Processing Foundation;http://processingfoundation.org
+902;SBML Simulator in Rust;Pranav Ballaney;National Resource for Network Biology (NRNB);https://nrnb.org/gsoc.html
+903;Logging, Unit Test Infrastructure and Precooked Sources for PRMON;Anubhab Das;CERN-HSF;http://hepsoftwarefoundation.org/activities/gsoc.html
+904;Service Market;Shyam;SCoRe Lab;http://www.scorelab.org/
+905;VLC Qt interface redesign;Adam Leung;VideoLAN;https://www.videolan.org/
+906;Project Starfix : Open anything anywhere in any IDE/editor;Fahad Israr;JBoss Community;http://www.jboss.org/
+907;Port SAST and Secret Detection rails platform code to GitLab CE project;Cyrine Gamoudi;GitLab;https://gitlab.com
+908;Journals Open Review Workflow and Integration;Apoorva;Cuneiform Digital Library Initiative (CDLI);https://cdli.ucla.edu
+909;Libadwaita animation API;Manuel Genovés;GNOME Foundation;https://gnome.org
+910;Convert Matlab ML examples to Python / JAX;Ming Liang Ang;TensorFlow;https://www.tensorflow.org/
+911;A Solvation Module for MDAnalysis;orion cohen;MDAnalysis;https://www.mdanalysis.org
+912;Direct Objective Function for Anomaly Detection;Yurii Halychanskyi;Machine Learning for Science (ML4SCI) Umbrella Organization;http://ml4sci.org
+913;Add/Improve tests in Spoon;Rohitesh Jain;CASTOR;https://www.castor.kth.se/
+914;Pocket Paint for Android: Additional brush options;FromG;International Catrobat Association;https://www.catrobat.org
+915;Patch Security Vulnerabilities Identified by NCSU;Nsereko Joshua;OpenMRS;https://openmrs.org
+916;Adding to p5.js Friendly Error System;Shantanu Kaushik;Processing Foundation;http://processingfoundation.org
+917;Reference Image Improvement;Sachin Jindal;KDE Community;https://www.kde.org
+918;[Gridap] Visualizing PDE approximations in Julia with Gridap.jl and Makie.jl;Pau Riera i Portillo;NumFOCUS;http://numfocus.org/
+919;EOS Icons React and Vue library;Vinayak Sharma;Python Software Foundation;https://www.python.org/
+920;Add Examples and Fix Bugs in Swift Processing;Masood Kamandy;Processing Foundation;http://processingfoundation.org
+921;MusicBlocks-v4 palettes and Artboard Canvas;Joykirat Singh;Sugar Labs;http://sugarlabs.org/
+922;Enhancing ABioTrans Plus  using Gene Expression Omnibus database and adding analysis report;Javed Ali;National Resource for Network Biology (NRNB);https://nrnb.org/gsoc.html
+923;Template Plugin;Nishant Mittal;Joplin;https://joplinapp.org/
+924;Casbin-Server, Rocket-Authz, JSON-Adapter;Samarpan Dutta;Casbin;https://casbin.org/
+925;Proofread Oracle DML SQL Definitions for the ShardingSphere Parser;Thanoshan M.V.;The Apache Software Foundation;https://www.apache.org
+926;Improvements to the directlabels package;Anirban Chetia;The R Project for Statistical Computing;https://www.r-project.org/
+927;MediaPipe Holistic in Unity;Pulkit Midha;MediaPipe;https://mediapipe.dev
+928;CernVM-FS preload capability;Rohit Topi;CERN-HSF;http://hepsoftwarefoundation.org/activities/gsoc.html
+929;Adding ICOS and GEDI data streams to PEcAn;Ayush Prasad;PEcAn Project;http://pecanproject.github.io/
+930;WebStatus Developer Tooling;Shivam Agarwal;Chromium;https://www.chromium.org/
+931;Token Authenticated Registration;Callum Brown;Matrix.org;https://matrix.org/
+932;Gitmate for coala;Sanchit (pilgrim2308);coala;https://coala.io
+933;Frontend reimplementation using react;ranjit shah;Digital Impact Alliance (DIAL) at UN Foundation;https://www.digitalimpactalliance.org/
+934;GUI for AXIOM Recorder;anuejn;apertus° Association;https://www.apertus.org
+935;Bring up CV32E40P AI accelerator on FPGA;Veronia Iskandar;Free and Open Source Silicon Foundation;https://www.fossi-foundation.org
+936;Improved UI design and Multilingual Support;Utkarsh Shendge;The Palisadoes Foundation;http://www.palisadoes.org/
+937;Graphical User Interface for OpenAI Gym;Özgür Kara;Department of Biomedical Informatics (BMI), Emory University School of Medicine;https://med.emory.edu/departments/biomedical-informatics/
+938;Integrating 3D scene builder as WPS services within MapMint administration User Interface;Sandeep Saurav;OSGeo - Open Source Geospatial Foundation;https://www.osgeo.org/
+939;Develop a prototype MT system for a strategic language pair uzb->kaa;Azamat Akimniyazov;Apertium;http://wiki.apertium.org
+940;Add monitoring of pg_stat_statements to pg_systat;Jianhui Lu;PostgreSQL;https://www.postgresql.org
+941;SMART-on-FHIR;Ankit kumar;OpenMRS;https://openmrs.org
+942;Add ttl for cassandra snapshots;fibersel;The Apache Software Foundation;https://www.apache.org
+943;Lua-Casbin;Rushikesh Tote;Casbin;https://casbin.org/
+944;Parallelization of existing modules for GRASS GIS;Aaron Saw Min Sern;OSGeo - Open Source Geospatial Foundation;https://www.osgeo.org/
+945;Sugarizer Security and Availability;Jaikishan Brijwani;Sugar Labs;http://sugarlabs.org/
+946;Integration of CircuitVerse with LMS Platforms;AYAN BISWAS;CircuitVerse.org;https://circuitverse.org/
+947;Display simulation data for rigid bodies and cloth;Soumya;Blender Foundation;http://www.blender.org
+948;Integrate custom derivatives of Numerical Computing routines like BLAS and Eigen into Enzyme;Pratyush Das;The LLVM Compiler Infrastructure;http://llvm.org
+949;Measure the Quality of CerebUnit Validation Tests;Harsh Khilawala;INCF;http://incf.org
+950;Input/Out Workflows for Active Segmentation Platform;Piyumal Demotte;INCF;http://incf.org
+951;Collective Operations over multiple layers/groups in Krita;Santhosh Anguluri;KDE Community;https://www.kde.org
+952;Improve Tree Ensemble Support;Rishabh Garg;mlpack;https://www.mlpack.org/
+953;Adding a Redis cache backend to Django's core module;Daniyal Abbasi;Django Software Foundation;https://www.djangoproject.com/
+954;Agora-Web;Ayush Tiwari;AOSSIE;https://aossie.gitlab.io/
+955;Use official isl C++ bindings for polly;Riccardo Mori;The LLVM Compiler Infrastructure;http://llvm.org
+956;Hydra - Hybrid Fuzzing with LibAFL;Julius Hohnerlein;AFLplusplus;https://aflplus.plus
+957;re2r back on CRAN;Mark Nawar;The R Project for Statistical Computing;https://www.r-project.org/
+958;DFFML: Support Archive Storage for  Models;Saahil;Python Software Foundation;https://www.python.org/
+959;VRP functionality with VROOM on the database for pgRouting;Ashish-Kumar;OSGeo - Open Source Geospatial Foundation;https://www.osgeo.org/
+960;Proposal for Monumento;Suryansh Singh Tomar;AOSSIE;https://aossie.gitlab.io/
+961;Sound mixer improvements;Christos Margiolis;FreeBSD Project;https://www.freebsd.org/
+962;AR Draw + Measure experience in MapMint4me;Sourav singh;OSGeo - Open Source Geospatial Foundation;https://www.osgeo.org/
+963;Improve fast scene detection modes proposal;Aleksandr Gushchin;Xiph.Org Foundation;https://xiph.org
+964;Proposal for GSoC 2021 IIO Driver: ADXL313;Lucas Stankus;The Linux Foundation;http://www.linuxfoundation.org/
+965;Micropython for BeagleConnect Freedom;Yadnik Bendale;BeagleBoard.org Foundation;https://beagleboard.org
+966;Add vectorization to par_unseq implementations of Parallel Algorithms;Srinivas Yadav;STE||AR Group;http://stellar-group.org/
+967;Digital Library Management;daksh;Cuneiform Digital Library Initiative (CDLI);https://cdli.ucla.edu
+968;Multi-level TLB support for Ariane;Nazerke Turtayeva;Free and Open Source Silicon Foundation;https://www.fossi-foundation.org
+969;Testing Dashboard;Akhil Jha;PEcAn Project;http://pecanproject.github.io/
+970;Dark Web Exploration (for Cyber Threat Analysis) And Expansion of Data Sources;Kaushik Sivashankar;OWASP Foundation;https://owasp.org
+971;Geographic Features Refinement;Barun;Public Lab;https://publiclab.org
+972;Multistream support in GStreamer element;Vedant Paranjape;libcamera;https://libcamera.org
+973;General Improvements in hydrus;Hasan Faraz Khan;Hydra Ecosystem;https://www.hydraecosystem.org/
+974;Create nuget package for OpenCV and OpenCV contrib;Aditya Mulgundkar;OpenCV;https://opencv.org
+975;Work on making Zulip better for large, high traffic organizations.;Abhijeet Bodas;Zulip;https://zulip.com
+976;View-Only Mode in GRC;Oscar Ekholm;GNU Radio;https://www.gnuradio.org/
+977;Improve pure Elm markdown parser;Jinyi;Elm Tooling;https://github.com/elm-tooling?type=source
+978;Expand Events Detection;Yash Gondhalekar;Libre Space Foundation;https://libre.space
+979;Element History Widget;Zohaib Ansari;OpenStreetMap;http://www.openstreetmap.org/
+980;Automating Puppeteer’s Documentation - Tasneem Koushar;Tasneem Koushar;Chromium;https://www.chromium.org/
+981;Quality Check and Assurance;Harshit Sharma;Polypheny;https://polypheny.org
+982;vhost-user-scsi device in Rust;Gaelan Steele;QEMU;https://qemu.org/
+983;Add io_uring support;Kumar Kartikeya Dwivedi;CRIU;https://criu.org
+984;Improving support for compute shaders in spirv-fuzz;Mostafa Ashraf Mohamed;Android Graphics Tools Team;https://github.com/google/graphicsfuzz/blob/master/docs/summer-of-code-ideas/2021.md
+985;Graph Neural Networks for End-to-End Particle Identification with the CMS Experiment;Shravan Chaudhari;Machine Learning for Science (ML4SCI) Umbrella Organization;http://ml4sci.org
+986;Internationalization of CircuitVerse Platforms;Pavan Joshi;CircuitVerse.org;https://circuitverse.org/
+987;Object Centric Data Storage PDC_Ceph Rados Integration;Mishal Singhai;Center for Research in Open Source Software, UC Santa Cruz;http://cross.ucsc.edu
+988;Music Transformer;Vasanth Mani Vasi;The Julia Language;https://julialang.org
+989;TensorFlow Implementation of Distribution Aware Coordinate Representation for Human Pose Estimation;Chandykunju Alex;TensorFlow;https://www.tensorflow.org/
+990;Visualization Libraries for ghc-debug;Ethan Tsz Hang Kiang;Haskell.org;http://haskell.org
+991;Develop in-toto-rs (Rust) for integration with rebuilderd;Qijia “Joy” Liu;CNCF;http://cncf.io
+992;Lazy Formal Power Series;Tejasvi Chebrolu;SageMath;https://www.sagemath.org/
+993;PD to AF conversion facility in Newt;Can Alpay;National Resource for Network Biology (NRNB);https://nrnb.org/gsoc.html
+994;Agora Android;Divyank Lunkad;AOSSIE;https://aossie.gitlab.io/
+995;Updation of the Json Schema to latest version (2020-12)/draft7 along with the form generation and validation with the updated schema of the tools;sh15h4nk;freifunk;https://freifunk.net
+996;Shaka Streamer Enhancements;Omer Yacine;Shaka Player;https://opensource.google/projects/shaka-player
+997;GSoC Proposal 2021: Tag/Topic System Refinements;Sushmita;Public Lab;https://publiclab.org
+998;Add autocompletion to Page Forms spreadsheet-style display;Yash Varshney;Wikimedia Foundation;http://wikimediafoundation.org/
+999;Better Voxel Filter;Tin Chon Chan;Point Cloud Library;https://pointclouds.org/
+1000;Implementing a DAP backend for debugging Godot projects;Ricardo Subtil;Godot Engine;https://godotengine.org
+1001;Improving TARDIS Simulation Logging Framework;Dhruv Sondhi;TARDIS SN;https://tardis-sn.github.io/tardis/
+1002;Gesture temporal detection pipeline for news videos;Yunfei Zhao;Red Hen Lab;http://redhenlab.org
+1003;Sign Language Recognition;Trung Ngo Tan;RoboComp;https://robocomp.org
+1004;Syzkaller improvements;Simran Kathpalia;FreeBSD Project;https://www.freebsd.org/
+1005;OONI: Developing Unit, Integration and E2E tests for Probe Desktop apps;Shivam Pathak;Digital Impact Alliance (DIAL) at UN Foundation;https://www.digitalimpactalliance.org/
+1006;Achievement in RetroPlayer;Shardul Semwal;Kodi;https://kodi.tv/
+1007;Real-Time Collaboration on a Note;Akash Konda;Joplin;https://joplinapp.org/
+1008;Convergence Criteria;Satyam Kumar;MBDyn;http://www.mbdyn.org
+1009;mne-python: Enhancing Performance of Signal Browsing using PyQt;Martin Schulz;Python Software Foundation;https://www.python.org/
+1010;Unified Color UI;Anuj Singhal;MIT App Inventor;http://appinventor.mit.edu
+1011;Classes and Methods for Spatial Data;Laurine Dargaud;Pharo Consortium;https://pharo.org/
+1012;Create new user interface widget;Antriksh Misri;Python Software Foundation;https://www.python.org/
+1013;Python bindings for TACO compiler;Sayandip Halder;Python Software Foundation;https://www.python.org/
+1014;Adding Tibetan Calendar in Unicode Common Locale Data Repository (CLDR) and International Components for Unicode (ICU) library;Ashish Patel;Project WikiLoop;https://meta.wikimedia.org/wiki/WikiLoop
+1015;Automatically identify Contributor Aliases;Anuj Lamoria;CHAOSS Project;https://chaoss.community
+1016;Proposal for cloudstack: cloning a VM;Junxuan Wu;The Apache Software Foundation;https://www.apache.org
+1017;Automatic differentiation in density-functional theory;Niklas Schmitz;The Julia Language;https://julialang.org
+1018;NetworkX - Louvain Community Detection Algorithm;Dimitris Papageorgiou;NumFOCUS;http://numfocus.org/
+1019;General Improvements;EXTREMOPHILARUM;OWASP Foundation;https://owasp.org
+1020;[Incubator-Nemo] Accurate Task Execution Simulator for Distributed Data Processing;Hae Dong Lee;The Apache Software Foundation;https://www.apache.org
+1021;Generating Syscall Decoders from Declarative Definitions;Srikavin Ramkumar;strace;https://strace.io
+1022;Logging Pipeline Plumber for Rancher;Isala Piyarisi;openSUSE Project;https://www.opensuse.org/
+1023;Blender Knife Tool Improvements;Cian Jinks;Blender Foundation;http://www.blender.org
+1024;HAPI Struct <> Proto Conversion Tool;Aditya Kurkure;Google FHIR SDK;https://github.com/google/android-fhir
+1025;Behavior Metrics and Deep Learning Studio: Developing and Deploying Deep and Reinforcement Learning for Multiple-Robots;Utkarsh A. Mishra;JdeRobot - Universidad Rey Juan Carlos;https://jderobot.github.io/
+1026;Replacing the core library of Quark-Engine;Sheng-Feng;The Honeynet Project;https://honeynet.org
+1027;Revamp mlpack bindings;Nippun Sharma;mlpack;https://www.mlpack.org/
+1028;Adding more functionality to AnalySim: a data sharing and analysis platform;Nga Tran;INCF;http://incf.org
+1029;Make mitmweb’s UI rich and easy to use;Toshiaki Tanaka;The Honeynet Project;https://honeynet.org
+1030;Adaptive Load Control and Distributed Load Testing of Envoy Data Planes;Dhruv P;CNCF;http://cncf.io
+1031;p5.js 2021 Showcase: The Love Ethic;Katie Chan;Processing Foundation;http://processingfoundation.org
+1032;Circuitpython busio compatibility layer for pslab-python;srnaveen2k;Digital Impact Alliance (DIAL) at UN Foundation;https://www.digitalimpactalliance.org/
+1033;Integrating XFSTESTS with KDE KIO-FUSE;Bhumit Attarde;KDE Community;https://www.kde.org
+1034;Wagtail Live;Tidiane;Django Software Foundation;https://www.djangoproject.com/
+1035;Building a Working Prototype of the AutSPACEs website;Anoushka Ramesh;INCF;http://incf.org
+1036;SMI Support for Multi-Cluster Operations;Piyush Singariya;CNCF;http://cncf.io
+1037;VirtIO-blk implementation with AGL on Jailhouse;Anmol .;The Linux Foundation;http://www.linuxfoundation.org/
+1038;Integrating a module to 3d scan a house within the MapMint4ME android application.;ayoubft;OSGeo - Open Source Geospatial Foundation;https://www.osgeo.org/
+1039;Incremental Improvements to Debian’s CI platform;Pavit Kaur;Debian;https://www.debian.org
+1040;Proposals for file transfer improvement and more;Yongha Hwang;Xfce;https://xfce.org/
+1041;Upgrading the Ganga Graphical User Interface;Gurudatta Patil;CERN-HSF;http://hepsoftwarefoundation.org/activities/gsoc.html
+1042;Competing destination for Spatial Interaction models, SpInt/PySal;Lenka Hasova;NumFOCUS;http://numfocus.org/
+1043;Supporting Arrays and Allocatables in LFortran;Gagandeep Singh;NumFOCUS;http://numfocus.org/
+1044;Develop a Shared Data Resource Focused on Dependencies, Risks and Vulnerabilities in Open Source Software;Dhruv Sachdev;CHAOSS Project;https://chaoss.community
+1045;Authentication and Authorization Service for the Alliance of Genome Resources;Aoji Xie;Open Genome Informatics;http://gmod.org/wiki/GSoC
+1046;Modern Statistical Modeling in Stingray;Rashmi Raj;openastronomy;http://www.OpenAstronomy.org
+1047;Visualization Of Systems-Level Gene Annotation  (UI-Side);Lokesh Rana;Open Genome Informatics;http://gmod.org/wiki/GSoC
+1048;Port of AGM from Python 2 to Python 3;Fernando Martin;RoboComp;https://robocomp.org
+1049;Android Support for ENIGMA;Abhishek Kumar Jha;The ENIGMA Team;https://enigma-dev.org
+1050;OpenEBS: Update mount-points and capacity of Block Devices without restarting NDM;Z0marlin;CNCF;http://cncf.io
+1051;Implement JointsMethod;Sudeep Sidhu;SymPy;http://sympy.org
+1052;M-extension support for SERV;Zeeshan Rafique;Free and Open Source Silicon Foundation;https://www.fossi-foundation.org
+1053;Implement feature flags & platform parameters;Arjun Gupta;Oppia Foundation;https://github.com/oppia/oppia
+1054;Accuracy and parallel computation in parton density calculation;Tushar Jain-2;CERN-HSF;http://hepsoftwarefoundation.org/activities/gsoc.html
+1055;PySal: Open Source Facility Location Modeling (spopt) Development;Germano dos Santos;NumFOCUS;http://numfocus.org/
+1056;Exporting Conversations From Element;Jaiwanth Vemula;Matrix.org;https://matrix.org/
+1057;Writing SAST Vulnerability Rules;Anshuman Singh-1;GitLab;https://gitlab.com
+1058;COLOUR: Adding new colour models;Geetansh Saxena;NumFOCUS;http://numfocus.org/
+1059;EOS: Improving Adobe XD, Figma Plugin and Creating Angular Library;Abhirup Pal;Python Software Foundation;https://www.python.org/
+1060;Data streaming in scientific workflows, implementation for Toil;Mihai Popescu;Open Bioinformatics Foundation;http://open-bio.org
+1061;WebAssembly loader;Jeppe Blomgren;MetaCall;https://github.com/metacall
+1062;Verbs to Gio::Actions;SUSHANT A.A.;Inkscape;https://inkscape.org
+1063;USING BALANCED_READS ON RGW CALLS TO RADOS;Zulai Wang;Ceph;https://ceph.io
+1064;Improve suggestion and full-text search features in Kiwix;Maneesh P M;Kiwix;https://www.kiwix.org
+1065;Loop closure algorithm based on HF-Net+BoW for depth fusion;Zihao Mu;OpenCV;https://opencv.org
+1066;Gamified Knowledge Base Completion Plugin for Wikibase/Wikidata;Dhairya Khanna;Wikimedia Foundation;http://wikimediafoundation.org/
+1067;Implementing Advanced Variational Gaussian Process Models;Ross Viljoen;The Julia Language;https://julialang.org
+1068;Support for Particle Physics in Catrobat;Dev Sebastian;International Catrobat Association;https://www.catrobat.org
+1069;Room Database Integration;Nur El-Din El-Rez;International Catrobat Association;https://www.catrobat.org
+1070;Create common backend for PSLab Desktop and Android app;Kartikay Sharma;Digital Impact Alliance (DIAL) at UN Foundation;https://www.digitalimpactalliance.org/
+1071;Extend RFC-7427 Signature Authentication Support To IKEv2 With EDDSA Support;Rishabh Kumar;The Libreswan Project;https://libreswan.org/
+1072;Create and Enhance APIs related to Education Platform;Devesh Kumar;JBoss Community;http://www.jboss.org/
+1073;Cross compiling “Shapeless 2” to “Scala 3”;Katrix;Scala Center;http://scala.epfl.ch
+1074;Website Updates;Eshan;PEcAn Project;http://pecanproject.github.io/
+1075;3D samples using OpenGL and GLFW;Dmitrii Klepikov;OpenCV;https://opencv.org
+1076;Design tooling: port to gtk 4;Maximiliano Sandoval;GNOME Foundation;https://gnome.org
+1077;RIoTPot - Honeypot for IOT/OT devices;Abhimanyu Rawat;The Honeynet Project;https://honeynet.org
+1078;Kanban Board Plugin for Joplin;mablin;Joplin;https://joplinapp.org/
+1079;Use ref-filter formats in git cat-file;ZheNing Hu;Git;http://git-scm.com
+1080;Implementing a multiscalar segregation metric | PySAL;Noah Bouchier;NumFOCUS;http://numfocus.org/
+1081;Integrate Spoke Peer-to-Peer Texting;Asha Sulaiman;CiviCRM LLC;https://civicrm.org
+1082;LIDAR visualization application on AGL using ROS2;boron;The Linux Foundation;http://www.linuxfoundation.org/
+1083;Integrate VirtualCodebase with Deltacode;Pratik Dey;AboutCode;https://www.aboutcode.org
+1084;Implement UNDO and transactional changes;Vikram Atreyapurapu;BRL-CAD;https://opencax.github.io
+1085;Monumento iOS application;Aaryan Kothari;AOSSIE;https://aossie.gitlab.io/
+1086;Poll App Mega Extensions;Rohan Lekhwani;Rocket.Chat;https://github.com/RocketChat/Rocket.Chat
+1087;DefectDojo Modern UI;Aniket Bhat;OWASP Foundation;https://owasp.org
+1088;Chatbot for AsyncAPI Creators Project Proposal;Wahab Oguntade;Postman;https://www.postman.com/
+1089;Test driver API coverage;Luke Yue;libvirt;https://libvirt.org
+1090;CUPS Filters: Converting Filters to Filter Functions;Pratyush Ranjan;The Linux Foundation;http://www.linuxfoundation.org/
+1091;A Modular Approach To The App Inventor Projects View;Vishwas Adiga;MIT App Inventor;http://appinventor.mit.edu
+1092;Software Heritage Code Scanner Improvements for Production Environments;danseraf;Software Heritage;https://www.softwareheritage.org
+1093;Adding the Ability To BCF Libraries to connect to BCF API's.;Singh Prabhat;BRL-CAD;https://opencax.github.io
+1094;Redesign, develop and refactor APISIX landing page;ShivamSingh;The Apache Software Foundation;https://www.apache.org
+1095;Integration of a PE/COFF loader designed with formal methods;Marvin Häuser;TianoCore;https://www.tianocore.org/
+1096;Implement lightweight checkpointing;Apoorv Srivastava;Oppia Foundation;https://github.com/oppia/oppia
+1097;WAL-G optimization backup storage by remote-copy APIs;Alexander Slesarev;PostgreSQL;https://www.postgresql.org
+1098;EXT4 Filesystem driver;Pedro Falcato;TianoCore;https://www.tianocore.org/
+1099;Machine Learning for Sea Floor Sampling and IOOS Demo Data Center migration to Jupyterbook;Lohith Munakala;Integrated Ocean Observing System (IOOS);https://ioos.noaa.gov/
+1100;Integrating ScanCode Toolkit;Sarita Singh;FOSSology;https://www.fossology.org/
+1101;Precision Landing Improvements using Depth Camera;rishabhsingh3003;ArduPilot;https://ardupilot.org
+1102;Project Recommendation System;DEVANSH DIXIT;CircuitVerse.org;https://circuitverse.org/
+1103;Integrating scikit-learn into Syft;Param Mirani;OpenMined;https://www.openmined.org/
+1104;Changing the frontend of OrcaSound;isabella Macchivello;Orcasound;http://orcasound.net
+1105;Implementation of a new Quad-double type for Boost.Multiprecision;Syed Fahad;Boost C++ Libraries;https://www.boost.org/
+1106;Web app to generate RDF from DBpedia abstracts - Fernando Casabán Blasco;Fernando Casabán Blasco;DBpedia;https://www.dbpedia.org/
+1107;Virtual FPGA Lab;Bala Dhinesh;Free and Open Source Silicon Foundation;https://www.fossi-foundation.org
+1108;TOML Support in dhall-haskell;Julio Grillo;Haskell.org;http://haskell.org
+1109;Casbin for .NET;Sagilio;Casbin;https://casbin.org/
+1110;Normalizing Flows for Fast Detector Simulation;Aditya Ahuja;Machine Learning for Science (ML4SCI) Umbrella Organization;http://ml4sci.org
+1111;Investigate the current state of syslog ng on MacOS;Yash Mathne;syslog-ng;https://www.syslog-ng.com/
+1112;Custom Firmware Builder;Will Piper;ArduPilot;https://ardupilot.org
+1113;A Stitch In Time (saves nine);Filip Adamik;The Honeynet Project;https://honeynet.org
+1114;RooUnfold - Efficient deconvolution using state of the art algorithms;Archit_Agrawal;CERN-HSF;http://hepsoftwarefoundation.org/activities/gsoc.html
+1115;Tackle Security Issues of OpenMRS;kfb19;OpenMRS;https://openmrs.org
+1116;Upgrade Django-based Website;Ishaan Arora;Inkscape;https://inkscape.org
+1117;Improving Functionalities of DHIS Connector Module;Piumal Rathnayake;OpenMRS;https://openmrs.org
+1118;Decoding quantum states through Nuclear Magnetic Resonance;Anantha Rao;Machine Learning for Science (ML4SCI) Umbrella Organization;http://ml4sci.org
+1119;Re-creating the Leech Heartbeat Network Model Tutorial using the Neuron Simulator in Python and NeuroML;Psyogi Soma;INCF;http://incf.org
+1120;Security Validator for Jenkins Kubernetes Operator;Pulkit Sharma;Continuous Delivery Foundation;https://cd.foundation/projects/
+1121;Expanding support for the solution of bilevel optimization problems in JuMP.;Mohammad Hesam Shaelaie;NumFOCUS;http://numfocus.org/
+1122;Add support for checkpoint/restore read and write queue of UDP socket;Bui Quang Minh;CRIU;https://criu.org
+1123;Beagleboard BSP: Add USB OTG Support;Husni Faiz;RTEMS Project;https://www.rtems.org/
+1124;WP1 Selection;Mahak Porwal;Kiwix;https://www.kiwix.org
+1125;Parallel Geometric Random Walks with Sparse Numerical Optimizations;Konstantinos Pallikaris;GeomScale;https://geomscale.github.io/
+1126;Merge Crossplane/OAM-Runtime with KubeVela by specify version;Yeshuai Cui;CNCF;http://cncf.io
+1127;Language Power Tools;Allan Juan;Rocket.Chat;https://github.com/RocketChat/Rocket.Chat
+1128;MPD Server in VLC;George Vaindirlis;VideoLAN;https://www.videolan.org/
+1129;Making VLC iOS app a one stop shop for all the media consumption and management;Pushpinder Pal Singh;VideoLAN;https://www.videolan.org/
+1130;Creating a MIME Sniffing Library for Scrapy;Akshay_Sharma;Python Software Foundation;https://www.python.org/
+1131;Explicit Allow-Listing for ICMP;Tomoki Sugiura;Cilium;https://cilium.io
+1132;Ractor-supported libraries;Rohit Menon;Ruby;https://www.ruby-lang.org/
+1133;tracker: Improve custom ontology support;Abanoub Ghadban;GNOME Foundation;https://gnome.org
+1134;Python GUI Visualisation for MOLTO-3BP Engine;Mario Robert D'Ambrosio;AerospaceResearch.net;http://aerospaceresearch.net/
+1135;Adding new activities to GCompris;Mariam Fahmy;KDE Community;https://www.kde.org
+1136;New General Navigation Menu and UX improvements;Nitesh Sinha;OpenWISP;http://openwisp.org
+1137;Update Kanidm project: MFA backup code and async-std library for openssl;victorcwai;openSUSE Project;https://www.opensuse.org/
+1138;On the potential of graph-based models in High Energy Physics;Ali A. Hariri;Machine Learning for Science (ML4SCI) Umbrella Organization;http://ml4sci.org
+1139;MediaPipe Cross-Platform Solution;Aniket Ray;MediaPipe;https://mediapipe.dev
+1140;Upgrading the Ganga graphical user interface;Monalisha Ojha;CERN-HSF;http://hepsoftwarefoundation.org/activities/gsoc.html
+1141;Modernize the underlying data struct of edwood;Cameron Connell;Plan 9 Foundation;http://p9f.org/
+1142;Counting linear extensions;Vaibhav Thakkar;GeomScale;https://geomscale.github.io/
+1143;casbin enhancement;zhixiang Chen;Casbin;https://casbin.org/
+1144;LibreMesh Pirania UI;Angie Ortiz Giraldo;freifunk;https://freifunk.net
+1145;Conversion of public neurophysiology datasets to NeuroData Without Borders format;Steph Prince;INCF;http://incf.org
+1146;AsyncDiff;Aayush Sahu;Postman;https://www.postman.com/
+1147;Thunar Evolved;SKefalidis;Xfce;https://xfce.org/
+1148;Caya Renovation;Jaidyn Levesque;Haiku;http://www.haiku-os.org
+1149;Alive for SIL;Justin Fargnoli;Swift;http://swift.org
+1150;(Live) listener statistics for Icecast;Rohit Verma;Xiph.Org Foundation;https://xiph.org
+1151;AsyncAPI Document Optimizer;Khuda Dad Nomani;Postman;https://www.postman.com/
+1152;Fix Fundamental Issues in LLVM IR;Krishna Kariya;The LLVM Compiler Infrastructure;http://llvm.org
+1153;Adding a return channel to Icecast server;Vishal Mishra;Xiph.Org Foundation;https://xiph.org
+1154;Packaging Caddy;Peymaneh Nejad;Debian;https://www.debian.org
+1155;Implement Interface for external data source import into Calc;Tushar Kumar Rai;LibreOffice;https://www.libreoffice.org/
+1156;Support for CPU and Platform Profiles;Aswin C;Rizin;https://rizin.re
+1157;GSoC 2021 Proposal: Add regexp-parser() (Xiaoyu Qiu);Xiaoyu Qiu;syslog-ng;https://www.syslog-ng.com/
+1158;Automate Metrics Release and Process Improvement;Ritik Malik;CHAOSS Project;https://chaoss.community
+1159;Scan8;Maanas Talwar;SCoRe Lab;http://www.scorelab.org/
+1160;ViT (Vision Transformer);sgeisler;TensorFlow;https://www.tensorflow.org/
+1161;Real-time subtitles for movies;Davide Pietrasanta;VideoLAN;https://www.videolan.org/
+1162;Software agent for traffic and pedestrian traffic monitoring in outdoor environments using RGB cameras.;Amarthya Sasi Kiran;RoboComp;https://robocomp.org
+1163;Alligator : Podcast Support;Swapnil Tripathi;KDE Community;https://www.kde.org
+1164;First-Ever Tibetan Spell Checker;Mengan Wang;Project WikiLoop;https://meta.wikimedia.org/wiki/WikiLoop
+1165;Adding New APIs from POSIX Standard 2021;Matthew Joyce;RTEMS Project;https://www.rtems.org/
+1166;Developing IntervalLinearAlgebra.jl;Luca Ferranti;The Julia Language;https://julialang.org
+1167;Porting ChromeOS Power Policy End-to-End Tests;Bisakh Mondal;Chromium;https://www.chromium.org/
+1168;MusicBlocksv4 Menu Framework and ArtBoard Connections;Daksh Doshi;Sugar Labs;http://sugarlabs.org/
+1169;Improving Python’s online interpreter and more interactive exercises;Angela Remolina;Python Software Foundation;https://www.python.org/
+1170;GUI for Game Library Management;Aashwin Vaish;ScummVM;https://www.scummvm.org/
+1171;Adaptation of Behavior Driven Development Ideas for Testing of Source Code and Validation Algorithms;Shashwat Jaiswal;Checkstyle;https://checkstyle.org
+1172;Convert Virtual Systems Page to ReactJS;Riya Kalra;openSUSE Project;https://www.opensuse.org/
+1173;NodeCloud - Digital Ocean Provider;Mohit Bhat;SCoRe Lab;http://www.scorelab.org/
+1174;ANIMATION IMPROVEMENTS;Himanshu Garg;MIT App Inventor;http://appinventor.mit.edu
+1175;Revive TensorMap;Asela Dasanayaka;SCoRe Lab;http://www.scorelab.org/
+1176;Checker Creation Helper Script and Recommending Safe package versions;peb;Python Software Foundation;https://www.python.org/
+1177;Astrometry - Gnuastro;Natáli Anzanello;openastronomy;http://www.OpenAstronomy.org
+1178;Extending DRAKVUF by an I/O-emulation module in order to camouflage its sandbox nature;Jan Gruber;The Honeynet Project;https://honeynet.org
+1179;ATARASHI - MINERVA;sayshreya;FOSSology;https://www.fossology.org/
+1180;Adopting the Hindi-Bengali language pair (unreleased language pair).;Gourab Chakraborty;Apertium;http://wiki.apertium.org
+1181;Add numerical differentiation support in Clad;grimmmyshini;CERN-HSF;http://hepsoftwarefoundation.org/activities/gsoc.html
+1182;Boost.Python: asyncio event loop implementation using Boost.Asio;Pan Yue;Boost C++ Libraries;https://www.boost.org/
+1183;Equadratures: Web Application based on Uncertainty Quantification;Simardeep Singh Sethi;NumFOCUS;http://numfocus.org/
+1184;Beagle-Config;Shreyas Swanand Atre;BeagleBoard.org Foundation;https://beagleboard.org
+1185;Alpine, macOS support;Jixin Chen;Center for Research in Open Source Software, UC Santa Cruz;http://cross.ucsc.edu
+1186;Guided Filter in FFmpeg;Xuewei Meng;FFmpeg;https://ffmpeg.org/
+1187;G-invariants of the Orlik-Solomon and Orlik-Terao algebras;Trevor Karn;SageMath;https://www.sagemath.org/
+1188;3D samples using OpenGL and GLFW;Ricardo Antunes;OpenCV;https://opencv.org
+1189;Proposal for CodeLabZ;Shadow;SCoRe Lab;http://www.scorelab.org/
+1190;Improve LibreHealth Toolkit Cost Of care Flutter Application And Web-App;Mahavir Singh;LibreHealth;https://librehealth.io
+1191;Distinct Terrain Features for Metal Renegades;Lorxu;The Terasology Foundation;https://terasology.org/
+1192;CrawlerX - Develop Extensible, Distributed, Scalable Web Crawling System;Beshiniii;SCoRe Lab;http://www.scorelab.org/
+1193;Adding Out-of-band Application Testing (OAST) Support to ZAP;ricekot;OWASP Foundation;https://owasp.org
+1194;Monocular Depth Estimation from RGB signals;Vaibhaw Khemka;RoboComp;https://robocomp.org
+1195;"Build GitHub workflow-optimizing action, using GitHub APIs; Add Rocket.Chat import tool";Priyansh Garg;Zulip;https://zulip.com
+1196;Refactor frontend-markdown processor using an extensible CommonMark parser;Akshat;Zulip;https://zulip.com
+1197;Evolving the LLDB GUI;Omar Emara;The LLVM Compiler Infrastructure;http://llvm.org
+1198;Black Parrot on Open-Source Google-Skywater 130nm node;Lakshmi S;Free and Open Source Silicon Foundation;https://www.fossi-foundation.org
+1199;Anonymizing Audiovisual Data;Yash Khasbage;Red Hen Lab;http://redhenlab.org
+1200;Create procedural language extension for the Julia programming language;Konstantina Skovola;PostgreSQL;https://www.postgresql.org
+1201;Generator for offline documentation;Abhishek Rawat;BRL-CAD;https://opencax.github.io
+1202;Proposal for Casdoor and Casnode;Boqian Xie;Casbin;https://casbin.org/
+1203;CodeLabz - FrontEnd Improvements;SOUGATA DAS;SCoRe Lab;http://www.scorelab.org/
+1204;LFortran: Finish AST generation;Thirumalai Shaktivel;Fortran-lang;https://fortran-lang.org
