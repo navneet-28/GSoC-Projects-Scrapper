@@ -10,4 +10,6 @@ You may run either the [gsoc_scrapper.py](gsoc_scrapper.py) file or the [GSoC-sc
 
 Let The script run for few minutes(around 2-3)
 
+A sample result haas been generaated thet is contained in the [sample_result.csv](sample_result.csv) file.
+
 ### Happy scrapping :)

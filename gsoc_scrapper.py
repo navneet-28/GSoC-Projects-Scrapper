@@ -9,7 +9,7 @@ example = requests.get(base_url.format(1))
 pages = int(example.json()["count"]/50) + 1
 
 main_list = []
-main_list.append([" "," "," "," "," "])
+
 
 for n in range(1,pages+1):
     res = requests.get(base_url.format(n))
@@ -27,4 +27,4 @@ for n in range(1,pages+1):
         
 df = pd.DataFrame(main_list, columns=["S.No","Project Title","Student","Organization","Website URL"])
 
-df.to_csv('gsoc_scrapped.csv',index=False, sep=";")
+df.to_csv('sample_result.csv',index=False, sep=",")
